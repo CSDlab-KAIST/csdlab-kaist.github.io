@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="home">
+
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+    </header>
+  </div>
+</div>
+
+<div class="wrapper" style="font-size: 1.2em">
+<p>   Many real-world problems related to designing and operating complex systems require a system design thinking which looks at the entire system rather than any one part of the system. Our group takes a problem-driven approach to complex systems design with both numerical simulation and mathematical modeling. Our main research focus is on optimal decision making under uncertainty with a particular interest in design and operation of complex service systems including health care service systems and logistics systems. The main strength of our group is the versatility with which we can tackle a broad spectrum of real-world problems, and this web site offers a glimpse of our strength by presenting some of our past and current research achievements. The collective technical expertise and the flexibility of the systems approach of our group enable us to solve significant real-world system design and operations problems with high impact and practicality.
+</p>
+</div>

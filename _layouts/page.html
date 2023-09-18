@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="wrapper">
+<div class="page">
+
+  <header class="post-header">
+    
+    {% if page.other_version_url %}
+    <a href="{{page.other_version_url}}" class="other-version-button">{{page.other_version_label}}</a>
+    {% endif %}
+
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  {% include page_divider.html %}
+
+  <article class="post-content">
+    {{content}}
+  </article>
+
+</div>
+</div>

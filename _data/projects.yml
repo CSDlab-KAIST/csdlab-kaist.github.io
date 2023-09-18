@@ -1,0 +1,62 @@
+# Information of projects.
+# If list of projects changed --> modify in here
+# save representative images to this folder : /assets/img/projects/
+
+- stateObj:
+    statename: Project lists
+    topics:
+      - name: Development of Unmanned aerial vehicle Traffic Management system
+        img: UTM.png
+        project: UTM
+        duration: April, 2017 ~ December, 2019
+        from: Korea Institute of Aviation Safety Technology
+        introduction: We participate in Korea-UAV Traffic Management (K-UTM) system development project team.
+         UTM system aims to fly many UAVs in airspace safely. Various technologies like obstacle detection and avoidance technology, traffic flow management system, UAV registration and flight admission algorithm consists UTM system.
+         We study to find optimal designated landing and take-off areas which will reduce the complexity of UAV flight path in airspace and decrease risk originated from uncontrolled landing and take-off of UAVs.
+         Traditional facility location problems are the basis of this study and characteristics of UAV flight are considered in modeling.
+
+      - name: Decision Making Model under Future Disaster Response System
+        img: FDRS.png
+        project: Decision Making Model Under Future Disaster Response System
+        duration: June, 2016 ~ May, 2019
+        from: Ministry of Public Safety and Security of Korea
+        introduction: Disaster response technologies are rapidly advancing, particularly around ICT technologies.
+         Situation awareness level has been increased with fusion and sharing of abundant data in real time, and various response methods can be utilized with innovative technological advance.
+         Disaster response system is expected to be “Effects-based disaster response” from first-responder, manual-based disaster response system by the aid of improved technology.
+         Decision-maker in the future disaster response system will face challenges to finding effective countermeasure within extensive information as well as get a chance to take fast and correct action.
+         These type of tough decision-making problems cannot be solved within intuition or experience from decision-maker.
+         Thus, this study aims to provide base technological knowledge about scientific decision-making method as a core capability for the future disaster response system.
+         We specifically study the following:1) Decomposition and approximation algorithm to solve time complexity of decision problem 2) Integrated decision making under multi-agent environment 3) Decision-making methodology with the consideration of cognitive constraints and behavior of decision-maker at a disaster.
+
+      - name: HealthMap
+        img: healthmap2.png
+        project: KNHI-Atlas
+        duration: June, 2017 ~ December, 2018
+        from: Nathional Health Insurance Service of Korea
+        introduction: We have two kinds of projects analyzing national medical care of Korea.
+         The first part of this study is to describe the current state and variation of medical resource-utilization-result indicators for each hospital service area which is based on medical use, to identify the cause of variation, and to provide a basis for improving the quality and efficiency of medical care.
+         In this study, our laboratory proposed a methodology for creating a hospital service area based on medical use and is analyzing determinants of medical use.
+         The second part of this study is to analyze the health utilization and supply situation, to derive underserved areas by each department, and to develop evaluation methods for medical institutions supported in medically underserved areas.
+         It also provides a basis for establishing and enforcing public health policies.
+         In this study, our laboratory has proposed the efficient placement of medical institutionssupported in medically underserved areas and the analysis of the potential demand forecasting at the location of medical institutions supported in medically underserved areas.
+
+      - name: Modeling and Simulation of Disaster Response System
+        img: DRMS2.png
+        project: Research and development of modeling and simulating the rescues, the transfer, and the treatment of disaster victims
+        duration: May, 2013 ~ April, 2015
+        from: National Research Foundation of Korea
+        introduction: This research focuses on developing a simulation modeling framework that can replicate response processes of disaster response systems.
+         The disaster response model aims at modeling practical aspects of disaster response systems and is based on its functionalities of response systems including emergency medical service, transportation, distribution of supplies, information and context awareness.
+         Specifically, we study the EMS system’s response to a disaster event to improve decision making in disaster response system.
+         We collaborate with EMS practitioners and NEMA to implement into their future response system.
+
+
+      - name: Developing Pandemic Response System
+        img: pandemic2.png
+        project: Modeling & Simulation for Enhancement of Korea's Pandemic Response Capability
+        duration: September, 2010 ~ August, 2015
+        from: National Research Foundation of Korea
+        introduction: The goal of this research is to develop core technologies for M&S-based pandemic response system.
+         We will study various technical components for disease spread model and healthcare delivery system models.
+         Interactions among these models will be captured and implemented so that the overall system can aid in systemic and dynamic decision making encompassing the entire chains from disease outbreak to strategy development, to system's response to them.
+         Thus, this study aims to provide fundamental technologies to develop M&S-based pandemic response system by conducting researches in 1) pandemic disease spread model and 2) healthcare delivery system model, both of which are specific to our nation's environment.

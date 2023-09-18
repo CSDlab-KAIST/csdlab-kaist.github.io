@@ -1,0 +1,114 @@
+<style>
+.filtered-list {}
+.filtered-list input {
+    display: none;
+}
+.filtered-list .filter-item {
+  transition: all .35s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+/* Generate CSS filter rules */
+{% for topic in site.data.publications.topics %}
+#category-{{topic | slugify}}:checked ~ .publications > :not(.category-{{topic | slugify}}),
+{% endfor %}
+{% for type in site.data.publications.types %}
+#type-{{type | slugify}}:checked ~ .publications > :not(.type-{{type | slugify}}),
+{% endfor %}
+dummy
+{
+  max-height: 0px;
+  margin: 0px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+<!--.filter-labels {-->
+    <!--margin-bottom: 15px;-->
+<!--}-->
+
+.segmented-control {
+    display: flex;
+    max-width: 100vw;
+    overflow: auto;
+}
+.segmented-control > * {
+    display: inline-block;
+    border: 1px solid #eee;
+    background-color: #fff;
+    padding: 0 1em;
+    line-height: 2em;
+    font-weight: normal;
+    cursor: pointer;
+    font-size: .95em;
+    margin-left: -1px;
+}
+.segmented-control > :first-child {
+    border-radius: 5px 0 0 5px;
+}
+.segmented-control > :last-child {
+    border-radius: 0 5px 5px 0;
+}
+
+#category-all:checked ~ .filter-labels #label-category-all,
+{% for topic in site.data.publications.topics %}
+#category-{{topic | slugify}}:checked ~ .filter-labels #label-category-{{topic | slugify}},
+{% endfor %}
+#type-all:checked ~ .filter-labels #label-type-all,
+{% for type in site.data.publications.types %}
+#type-{{type | slugify}}:checked ~ .filter-labels #label-type-{{type | slugify}},
+{% endfor %}
+dummy
+{
+  background-color: #544b61;
+  color: #fff;
+}
+</style>
+
+<div id="publicationwrap" class="filtered-list">
+    <!--<input type="radio" name="category" id="category-all" checked />-->
+    <!--{% for topic in site.data.publications.topics %}-->
+    <!--<input type="radio" name="category" id="category-{{topic | slugify}}" />-->
+    <!--{% endfor %}-->
+    <input type="radio" name="type" id="type-all" checked />
+    {% for type in site.data.publications.types %}
+    <input type="radio" name="type" id="type-{{type | slugify}}" />
+    {% endfor %}
+
+    <div class="filter-labels row">
+        <!--<div class="col-xs-12 col-md-6">-->
+            <!--Research field-->
+            <!--<div class="segmented-control">-->
+                <!--<label for="category-all" id="label-category-all">All</label>-->
+                <!--{% for topic in site.data.publications.topics %}-->
+                <!--<label for="category-{{topic | slugify}}" id="label-category-{{topic | slugify}}">{{ topic  }}</label>-->
+                <!--{% endfor %}-->
+            <!--</div>-->
+        <!--</div>-->
+        <div class="col-xs-12 col-md-6">
+            Type
+            <div class="segmented-control">
+                <label for="type-all" id="label-type-all">All</label>
+                {% for type in site.data.publications.types %}
+                <label for="type-{{type | slugify}}" id="label-type-{{type | slugify}}">{{ type }}</label>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+    <ul class="publications">
+        {% assign sorted_papers = site.data.publications.papers | sort: 'yearS' | reverse %}
+    {% for paper in sorted_papers %}
+        <li class="filter-item {% for topic in paper.topics %}category-{{topic}}{% endfor %} type-{{paper.type}}">
+            {% if paper.type == 'journal' %}
+                <b>{{paper.title}}, </b>{{paper.author}}, <i>{{paper.venue}}, </i> {{paper.month}}, {{paper.year}}
+            {% else %}
+                <b>{{paper.title}}, </b>{{paper.author}}, <i>{{paper.venue}}, </i> {{paper.location}}, {{paper.month}}, {{paper.year}}
+            {% endif %}
+            {% if paper.link == "" or paper.link == undefined or paper.link == "<add link to your paper>" %}
+            {% else %}
+                <a href="{{paper.link}}" target="_blank">[Link]</a>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+    <div class="spacing"></div>
+</div>

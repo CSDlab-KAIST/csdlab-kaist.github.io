@@ -1,0 +1,512 @@
+# Members information. Shown on About page.
+# If member changed --> modify in here
+# save personal images to this folder : /assets/img/members/   !!not _sites/assets/img/members
+# save CVs to this folder : /assets/cv/
+
+## Current members
+#
+- stateObj:
+    statename: People at CSD lab
+    position:
+
+## --------------Members---------------------------
+
+#         - positionName: Members
+#           positionMembers:           
+#             - img: people_220401_1.jpeg
+
+## --------------Professor---------------------------
+
+        - positionName: Professor
+          positionMembers:
+            - name: Taesik Lee
+              email: taesik.lee@kaist.edu
+              img: ProfilePic1.jpg
+              career:
+                - 1997.2 Seoul National University Mechanical Engineering, B.S.
+                - 1999.6 MIT Mechanical Engineering M.S.
+                - 2003.6 MIT Mechanical Engineering Ph.D.
+              interest: Healthcare analytics, Disaster response system, Modeling & simulation of large-scale systems, Systems engineering, Decision making under uncertainty
+              pageurl: /people/Professor
+              cv: CV2019_TaesikLee_patentNoUpdated.pdf
+
+## --------------PhD Students------------------
+
+        - positionName: Ph.D. Students
+          positionMembers:
+
+            - name: Hyelim Shin
+              email: hyelim.shin@kaist.ac.kr
+              img: Hyelim_230329.jpeg
+              career:
+               - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
+               - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.
+               - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+              interest: System design, Optimization
+              pageurl: /people/hyelim
+              cv:
+              entered: 2018.03
+
+            - name: Kyeonghyeon Park
+              email: kyeonghyeon.park@kaist.ac.kr
+              img: kyeonghyeon.jpg
+              career:
+               - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
+               - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.              
+               - 2020.8 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+              interest: Reward design, Multi-agent reinforcement learning, Non-cooperative multi-agent system
+              pageurl: /people/kyeonghyeon
+              cv:
+              entered: 2018.0301
+              
+            - name: Huijae Kim (Lab. Representative)
+              email: huijae.kim@kaist.ac.kr
+              img: huijae-2.jpeg
+              career:
+               - 2019.2 Sungkyunkwan University Dept. of Statistics, B.S.
+               - 2021.2 KAIST Dept. of Industrial & Systems Engineering, M.S.    
+               - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+              interest: Healthcare service system design, Data analytics, Optimization
+              pageurl: /people/huijae
+              cv:
+              entered: 2019.03
+
+            - name: Jungwoo Kim
+              email: jungwoo415@kaist.ac.kr
+              img: jungwoo.jpg
+              career:
+               - 2021.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
+               - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S.-Ph.D. Integrated Program
+              interest: Choice model, Data mining, Healthcare delivery system, Epidemic simulation
+              pageurl: /people/jungwoo
+              cv:
+              entered: 2021.03
+
+            - name: Ji-Su Lee
+              email: jisulee@kaist.ac.kr
+              img: jisu.jpg
+              career:
+               - 2014.2 Kyung Hee University, College of Korean Medicine, K.M.D.
+               - 2018.2 Seoul National University, School of Medicine, M.D.
+               - 2018.3 ~ 2019.2 Seoul National University Hospital, Intern
+               - 2019.3 ~ 2022.2 Seoul National University College of Medicine, Department of Health Policy and Management, Resident
+               - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, Ph.D. Program
+              interest: Healthcare delivery and payment system optimization, Distributive justice in healthcare
+              pageurl: /people/jisu
+              cv:
+              entered: 2022.03
+## --------------MS Students------------------
+
+        - positionName: M.S. Students
+          positionMembers:
+
+  #          - name: Tooba Binte Asif
+  #            email: toobaasif@kaist.ac.kr
+  #            img: tooba-2.jpg
+  #            career:
+  #             - 2018.12 University of the Punjab, Pakistan Dept. of Industrial Engineering & Management, B.S.
+  #             - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+  #            interest: System design, Healthcare service system
+  #            pageurl: /people/tooba
+  #            cv:
+  #            entered: 2019.03
+
+  #          - name: Huijae Kim
+  #            email: heejae6021@kaist.ac.kr
+  #            img: huijae.jpg
+  #            career:
+  #             - 2019.2 Sungkyunkwan University Dept. of Statistics, B.S.
+  #             - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+  #            interest: Healthcare service system design, Data analytics, Optimization
+  #            pageurl: /people/huijae
+  #            cv:
+  #            entered: 2019.03
+
+  #          - name: Yoorim Song
+  #            email: yoorim.song@kaist.ac.kr
+  #            img: yoorim.jpg
+  #            career:
+  #             - 2019.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
+  #             - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+  #            interest: Optimization, Complex system design, Reinforcement learning
+  #            pageurl: /people/yoorim
+  #            cv:
+  #            entered: 2019.03
+
+            # - name: Hyewon Park
+            #   email: hyewon0901@kaist.ac.kr
+            #   img: hyewon-1.jpg
+            #   career:
+            #    - 2020.2 KAIST Dept. of Materials Science & Engineering, B.S.
+            #    - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+            #   interest: Data science, Epidemic simulation, Healthcare system
+            #   pageurl: /people/hyewon
+            #   cv:
+            #   entered: 2020.03
+
+            # - name: Yuna Kim
+            #   email: garpkbr@kaist.ac.kr
+            #   img: yuna.jpg
+            #   career:
+            #    - 2019.2 DGIST School of Undergraduate Studies, B.S.
+            #    - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+            #   interest: Stochastic and statistic systems, Data science, Optimization
+            #   pageurl: /people/yuna
+            #   cv:
+            #   entered: 2020.03
+
+            # - name: Junyoung Jung
+            #   email: wwd2000@kaist.ac.kr
+            #   img: junyoung.jpg
+            #   career:
+            #    - 2020.8 KAIST Dept. of Industrial & Systems Engineering, B.S.
+            #    - 2020.9 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+            #   interest: Data science, Healthcare service system
+            #   pageurl: /people/junyoung
+            #   cv:
+            #   entered: 2020.09
+
+            - name: Jeong Yeo
+              email: faiiry9@kaist.ac.kr
+              img: jeong_230329.jpeg
+              career:
+               - 2022.2 UNIST Dept. of Human Factor Engineering, B.S.
+               - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
+              interest: Data science, Data analysis, Knowledge Graph for Finance
+              pageurl: /people/jeong
+              cv:
+              entered: 2022.03
+          
+            - name: Yong Hoon Choi
+              email: choeyhun@kaist.ac.kr
+              img: yonghoon.jpg
+              career:
+               - 2018.2 Korea Military Academy (KMA), Operations Research, B.S.
+               - 2023.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+              interest: Optimization, Reinforcement learning
+
+              pageurl: /people/yonghoon
+              cv:
+              entered: 2023.03
+              
+            - name: Joon Im
+              email: joonim14@kaist.ac.kr
+              img: joonseok2.jpeg
+              career:
+               - 2022.9 The University of Auckland, Department of Engineering Science, B.S.
+               - 2023.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+              interest: Operations Research, Data Science
+
+              pageurl: /people/joonseok
+              cv:
+              entered: 2023.03
+            
+            - name: Anurag Yadav
+              email: anusim2003@kaist.ac.kr
+              img: anurag.jpg
+              career:
+               - 2023.6 Lady Shri Ram College for Women, Department of Statistics, B.S.
+               - 2023.8 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
+              interest: Operations Research, Data Science
+
+              pageurl: /people/anurag
+              cv:
+              entered: 2023.03
+
+## --------------Postdoctoral Researchers---------------------------
+
+        # - positionName: Postdoc. Researchers
+        #   positionMembers:
+
+        #     - name: Kyosang Hwang
+        #       email: kyosanghwang@kaist.ac.kr
+        #       img: kyosang-3.jpg
+        #       career:
+        #         - 2011.8 KAIST Dept. of Industrial & System Engineering, B.S.
+        #         - 2013.8 KAIST Dept. of Industrial & Systems Engineering, M.S.
+        #         - 2019.8 KAIST Dept. of Industrial & Systems Engineering, Ph.D.
+        #       interest: Healthcare service system, Optimization, Location problem, Discrete choice models
+        #       pageurl: /people/kyosang
+        #       cv: CV_Kyosang Hwang(2019.03.05).pdf
+        #       entered: 2019.09
+
+        #     - name: Kyohong Shin
+        #       email: hong906@kaist.ac.kr
+        #       img: kyohong-2.jpg
+        #       career:
+        #         - 2012.2 KAIST Dept. of Industrial & System Engineering, B.S.
+        #         - 2014.2 KAIST Dept. of Industrial & Systems Engineering, M.S.
+        #         - 2019.8 KAIST Dept. of Industrial & Systems Engineering, Ph.D. 
+        #       interest: Emergency medical service, Mass-casualty incident, Decision making under uncertainty, Markov decision process, Reinforcement learning
+        #       pageurl: /people/kyohong
+        #       cv: CV_Kyohong Shin(2019.10.28)_ENG.pdf
+        #       entered: 2019.09
+
+## --------------Research Associate---------------------------
+
+        # - positionName: Research Associate
+        #   positionMembers:
+
+        #     - name: Kyeonghyeon Park
+        #       email: guspk0212@kaist.ac.kr
+        #       img: kyeonghyeon.jpg
+        #       career:
+        #         - 2018.2 KAIST Dept. of Industrial & System Engineering, B.S.
+        #         - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.
+        #       interest: Healthcare service system, Reward structure design, Optimization
+        #       pageurl: /people/kyeonghyeon
+        #       cv: 
+        #       entered: 2020.03
+
+
+## --------------Alumni---------------------------
+
+        - positionName: Alumni-Ph.D.
+          positionMembers:
+
+            - name: Soonyong Bae
+              email:
+              career: Ph.D., 2011
+              thesis: A Research Model for Consumer's Perception of Online Consumer Reviews
+              currentOccupation:
+              img:
+              leavingDate: 2011.02
+
+            - name: Hoon Jang
+              email:
+              career: Ph.D., 2014
+              thesis: Location Problems for Designing Trauma Care System in Korea
+              currentOccupation: STEPI (Science and Technology Policy Institute)
+              img:
+              leavingDate: 2014.02
+
+            - name: Youngwoo Lee
+              email:
+              career: Ph.D., 2016
+              thesis: Development of Combat Effectiveness Metric Using Network Representation of Combat Environment
+              currentOccupation: KAERI (Korea Atomic Energy Research Institute)
+              img:
+              leavingDate: 2016.02
+
+            - name: Inkyung Sung
+              email:
+              career: Ph.D., 2016
+              thesis: Optimal Allocation of Emergency Medical Resources in Mass Casualty Incidents
+              currentOccupation: Aalborg University (AAU) - Post Doctor
+              img:
+              leavingDate: 2016.08
+
+            - name: Hyunil Noh
+              email:
+              career: Ph.D., 2017
+              thesis: Modeling and Analysis of Enhanced Information and Decision-Making through Introduction of Combat Information System
+              currentOccupation: Republic of Korea Army
+              img:
+              leavingDate: 2017.08
+
+            - name: Hochang Nam
+              email: 
+              career: Ph.D., 2019
+              thesis: Analysis of Effect of Information in Application-based Taxi Service System 
+              currentOccupation: Meritz Fire & Marine Insurance Co., Ltd.
+              img:
+              leavingDate: 2019.08
+
+            - name: Kyosang Hwang
+              email: 
+              career: Ph.D., 2019
+              thesis: Location Problem of Medical Institutions in the Medically Under-served Areas in Korea Considering Demand Patterns Using Choice Model
+              currentOccupation: 
+              img:
+              leavingDate: 2019.08
+
+            - name: Kyohong Shin
+              email: 
+              career: Ph.D., 2019
+              thesis: Sequential Decision Making Problems for Operation Management of Emergency Medical Services System in Mass-casualty Incidents 
+              currentOccupation: 
+              img:
+              leavingDate: 2019.08 
+
+            - name: Hyun-Rok Lee
+              email: hyunrok@kaist.ac.kr
+              career: Ph.D., 2020
+              thesis: Algorithm and application of imitation learning and reinforcement learning for sequential decision making problems with multiple agents
+              currentOccupation: Postdoctoral Researcher at the University of Toronto 
+              img: hyunrok_2019.jpg
+              leavingDate: 2020.02 
+
+            - name: Hyunjin Lee
+              email: uhyh9002@kaist.ac.kr
+              career: Ph.D., 2020
+              thesis: Data-driven approach for demand estimation and optimization of EMS system operation
+              currentOccupation: Post-doc., KAIST
+              img: hyunjin2-2.jpg
+              leavingDate: 2020.08
+
+## --------------Alumni---------------------------
+
+        - positionName: Alumni-M.S.
+          positionMembers:
+
+
+
+            - name: Heoksung Lee
+              email:
+              career: M.S., 2010
+              thesis: Factors Affecting User Acceptance of the Online Health Information Providing Service
+              currentOccupation: KAIST, Graduate School of Innovation and Technology Managemnt
+              img:
+              leavingDate: 2010.02
+
+            - name: Jihyun  Yoon
+              email:
+              career: M.S., 2010
+              thesis: Factors Affecting Consumer's Trust on Internet Health Information
+              currentOccupation: Hanwha Engineering
+              img:
+              leavingDate: 2010.02
+
+            - name: Nara Yeon
+              email:
+              career: M.S., 2011
+              thesis: A Study on Scenario Screening for Stochastic Disease Spreading Models Using Simulation
+              currentOccupation: Accenture
+              img:
+              leavingDate: 2011.02
+
+            - name: Seungeun Lee
+              email:
+              career: M.S., 2011
+              thesis: The Effect of Each Measure of the Network Centralities in the Aspect of Disease Intervention
+              currentOccupation: SK C&C
+              img:
+              leavingDate: 2011.02
+
+            - name: KyungHyeok Baek
+              email:
+              career: M.S., 2012
+              thesis: Study on the Optimal Location of Low Altitude Air Defense Radar
+              currentOccupation: Republic of Korea Air Force
+              img:
+              leavingDate: 2012.02
+
+            - name: Jukrin Moon
+              email:
+              career: M.S., 2014
+              thesis: Infrastructure Interdependency Modeling for Cascading Failure Assessment
+              currentOccupation: Texas Austin, Ph.D. Program
+              img:
+              leavingDate: 2014.02
+
+            - name: Inseon Baek
+              email:
+              career: M.S., 2016
+              thesis: Maximal Covering Location Problem Modeling on the Passive Bistatic Radar Systems for Detecting Small Unmanned Aerial Vehicles
+              currentOccupation: KINAC (Korea Institute of Nuclear Nonproliferation and Control)
+              img:
+              leavingDate: 2016.08
+
+            - name: Yona Kim
+              email:
+              career: M.S., 2017
+              thesis: Defining Health Serivce Areas in Korea for Research on Geographic Variations in Health Service Utilization
+              currentOccupation: TMAX Soft
+              img:
+              leavingDate: 2017.02
+
+            - name: Mohamed T.A. Mohamed
+              email:
+              career: M.S., 2017
+              thesis: Mathematical Modelling and Optimization of Distributed Capacitated Kidney Paired Donation Programs with Transportability Kidneys After Nephrectomy
+              currentOccupation:
+              img:
+              leavingDate: 2017.02
+
+            - name: Soochan Kim
+              email: soochani@kaist.ac.kr
+              career: M.S., 2018
+              thesis: Countermaneuver Support Mission Scheduling Considering the Job Splitting and Cooperation Property
+              currentOccupation: Republic of Korea Army
+              img:
+              leavingDate: 2018.02
+
+            - name: Kyuhyeon Shin
+              email: shinkyuhyeon@kaist.ac.kr
+              career: M.S., 2018
+              thesis: Improving the Measurement of the Korean Emergency Medical System's Spatial Accessibility
+              currentOccupation: LG CNS
+              img:
+              leavingDate: 2018.07
+
+            - name: Taehyun Kim
+              email: taehyunn.kim@kaist.ac.kr
+              career: M.S., 2019
+              thesis: Impact of Price Regulation and Market Intervention in Health Care Market Competition with Semi-Altruistic Providers
+              currentOccupation: 
+              img:
+              leavingDate: 2019.07
+
+            - name: Monica Campana
+              email: monica16@kaist.ac.kr
+              career: M.S., 2020
+              thesis: Case Study on the Ambulance Location in the Dominican Republic
+              currentOccupation: 
+              img:
+              leavingDate: 2020.02
+
+            - name: Kyeonghyeon Park
+              email: guspk0212@kaist.ac.kr
+              career: M.S., 2020
+              thesis: Analyzing Korean Inpatient Care Supply Structure Reform Strategies With a Dynamic Simulation Model
+              currentOccupation: 
+              img: kyeonghyeon.jpg
+              leavingDate: 2020.02
+
+            - name: Tooba Binte Asif
+              email: toobaasif@kaist.ac.kr
+              career: M.S., 2021
+              thesis: Healthcare Resource Allocation Model Incorporating Consumer Choice and Its Uncertainty
+              currentOccupation: 
+              img: tooba-2.jpg
+              leavingDate: 2021.02
+
+            - name: Huijae Kim
+              email: heejae6021@kaist.ac.kr
+              career: M.S., 2021
+              thesis: Designing and Analizing a Deep-learning-based Multi-input model to Predict the Outcome of R&D Projects 
+              currentOccupation: 
+              img: huijae.jpg
+              leavingDate: 2021.02
+
+            - name: Yoorim Song
+              email: yoorim.song@kaist.ac.kr
+              career: M.S., 2021
+              thesis: Optimization of Bus Operation System Considering the Passenger Arrival Pattern
+              currentOccupation: Samsung Electronics
+              img: yoorim.jpg
+              leavingDate: 2021.02
+
+            - name: Hyewon Park
+              email: 
+              career: M.S., 2022
+              thesis: Effectiveness of network-based social distancing policy considering adherence with quarantine policy
+              currentOccupation: EY Consulting
+              img: hyewon-1.jpg
+              leavingDate: 2022.02
+
+            - name: Yuna Kim
+              email: 
+              career: M.S., 2022
+              thesis: Rethinking the Value of Representation Pairs via Supervised Momentum Contrastive Learning
+              currentOccupation: Samsung Electronics
+              img: yuna.jpg
+              leavingDate: 2022.02
+
+            - name: Junyoung Jung
+              email: 
+              career: M.S., 2023
+              thesis: Estimation of the First Arrival Time on the Epidemic Disease Transmission Network
+              currentOccupation: 
+              img: junyoung.jpg
+              leavingDate: 2023.08

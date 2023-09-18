@@ -1,0 +1,2184 @@
+# List of all existing topics
+# You can write with space and uppercase characters here, but down below
+# under papers.topics, it should be like this: EMS System -> ems-system (lowercase and spaces to hyphen)
+topics:
+  - Healthcare Logistics
+  - Disaster Response
+  - Modeling & Simulation
+  - System Engineering
+#  - EMS System
+#  - Decision making under uncertainty
+#  - add topics
+
+# List of all existing venue types
+types:
+  - Journal
+  - Conference Proceedings
+  - Conference Presentations
+#  - workshop
+#  - poster
+#  - book
+
+
+papers:
+  - title: "Waiting Time Reduction of Ophthalmology Outpatients through Managing Variability"
+    author: "Kong, J., Lee, Y., Jang, H. and Lee, T."
+    venue: "KIIE Annual Fall Conference"
+    month: November 8
+    year: 2008
+    yearS: 2008.1108
+    location: Seoul, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A study on Evaluating Outpatients units Appointment rules Using Simulation Optimization"
+    author: "Jang, H., Lee, T."
+    venue: "Winter Simulation Conference"
+    month: December 14
+    year: 2009
+    yearS: 2009.1214
+    location: Texas, USA
+    topics: modeling-simulation
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Optimal Planning for Mobile Harbor System Operation"
+    author: "Lee, T., Sung I., Shin, K. and Nam, H."
+    venue: "Korea CAD/CAM Association Winter Conference"
+    month: January 28
+    year: 2010
+    yearS: 2010.0128
+    location: Yongpyoung, Korea
+    topics: system-engineering
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Optimal container loading & unloading schedule with stability constraint: rulebased heuristic algorithm and local search method"
+    author: "Shin, K. and Lee, T."
+    venue: "KIIE/KORMS Annual Spring Joint Conference"
+    month: June 4
+    year: 2010
+    yearS: 2010.0604
+    location: Jeju, Korea
+    topics: system-engineering
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "How can online sellers use blogs as online consumer review sources?"
+    author: "Bae, S.Y., Hwang, S.H. and Lee, T."
+    venue: "KIIE/KORMS Annual Spring Joint Conference"
+    month: June 4
+    year: 2010
+    yearS: 2010.0604
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "An Extended M-parallel Machine Problem with a Limited Machine Capacity and Interference between Jobs"
+    author: "Sung, I., Nam, H. and Lee, T."
+    venue: "KIIE/KORMS Annual Spring Joint Conference"
+    month: June 4
+    year: 2010
+    yearS: 2010.0604
+    location: Jeju, Korea
+    topics: system-engineering
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A study on the optimal number of emergency vehicles for development of pre-hospital&nbsp;emergency medical system"
+    author: "Lee, Y., Jang, H. and Lee, T."
+    venue: "KIIE/KORMS Annual Spring Joint Conference"
+    month: June 4
+    year: 2010
+    yearS: 2010.0604
+    location: Jeju, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A study on effectiveness of simulation optimization for outpatient appointment scheduling"
+    author: "Jang, H. and Lee, T."
+    venue: "KIIE/KORMS Annual Spring Joint Conference"
+    month: June 4
+    year: 2010
+    yearS: 2010.0604
+    location: Jeju, Korea
+    topics: modeling-simulation
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Understanding the Determinants of Trust in Online Health Advice: A Combinatory Approach"
+    author: "Yoon, J., Yi, M., Lee, T. and Choi, J."
+    venue: "KMIS Fall Conference"
+    month: November 12
+    year: 2010
+    yearS: 2010.1112
+    location:  Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Complex System Design and Axiomatic Design"
+    author: "Lee, T."
+    venue: "ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC&CIE)"
+    month: August 18
+    year: 2010
+    yearS: 2010.0818
+    location: Montreal, Canada
+    topics: system-engineering
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A Location Problem for Trauma Centers and EMS Transportation Resources"
+    author: "Lee, T., Jang, H., Cho, S-H. and Turner, J.G."
+    venue: "INFORMS Annual Meeting"
+    month: November 16
+    year: 2011
+    yearS: 2011.1116
+    location: Charlotte, NC, USA
+    topics: system-engineering
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Ambulance Relocation Model Design by Optimization and Simulation"
+    author: "Lee, T., Jang, H., Sung, I., Cha, W.C., and Shin, S.D."
+    venue: "NAEMSP Annual Meeting"
+    month: January 13
+    year: 2011
+    yearS: 2011.0113
+    location: Bonita Spring, FL, USA
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Simulation of Disaster Response System: A pilot study"
+    author: "Cha, W.C., Lee, T., Kim, G. and Kim, C.H."
+    venue: "NAEMSP Annual Meeting"
+    month: January 12
+    year: 2012
+    yearS: 2012.0112
+    location: Tucson, AZ, USA
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A Location Problem for Trauma Centers and Emergency Medical Service Transportation Resources"
+    author: "Turner, J.G., Cho, S.H., Lee, T. and Jang, H."
+    venue: "2012 INFORMS MSOM Conference"
+    month: June 11
+    year: 2012
+    yearS: 2012.0611
+    location: New York, NY, USA
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Design of ABMS-based simulation model for C4I in an NCW combat environment"
+    author: "Nam, H., Lee, Y., Baek, K.H., Shin, K. and Lee, T."
+    venue: "2012 KORMS Annual Fall Conference"
+    month: November 1
+    year: 2012
+    yearS: 2012.1101
+    location: Seoul, Korea
+    topics: modeling-simulation
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Identifying central nodes in pandemic disease spreading network"
+    author: "Hwang, K. and Lee, T."
+    venue: "2012 KIIE Annual Fall Conference"
+    month: November 2
+    year: 2012
+    yearS: 2012.1102
+    location: Ansan, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A framework for building a simulation model to study overcrowding in ED"
+    author: "Jang, H., Lee, T., Kim, Y. and Cha, W.C."
+    venue: "2012 KIIE Annual Fall Conference"
+    month: November 2
+    year: 2012
+    yearS: 2012.1102
+    location: Ansan, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A data aggregation method for capacitated covering problems with gradual coverage"
+    author: "Jang, H. and Lee, T."
+    venue: "2012 KIIE Annual Fall Conference"
+    month: November 2
+    year: 2012
+    yearS: 2012.1102
+    location: Ansan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "System Design for CCS based on CO2 carrier"
+    author: "Nam, H., Lee, T. and Chung, H."
+    venue: "2012 KIIE Annual Fall Conference"
+    month: November 2
+    year: 2012
+    yearS: 2012.1102
+    location: Ansan, Korea
+    topics: system-engineering
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Metric to measure NCW effects by using Lanchester Model"
+    author: "Lee, Y. and Lee, T."
+    venue: "2012 KIIE Annual Fall Conference"
+    month: November 2
+    year: 2012
+    yearS: 2012.1102
+    location: Ansan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Communication modeling for war game simulation under Network Centric Warfare"
+    author: "Shin, K., Nam, H., Lee, Y. and Lee, T."
+    venue: "13th ADD Conference on Communications and Electronics"
+    month: November 22
+    year: 2012
+    yearS: 2012.1122
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A Framework to Identify Interdependencies among Infrastructures: Capability-driven and Demand-driven Dependency"
+    author: "Moon, J. and Lee, T."
+    venue: "Health and Humanitarian Logistics Conference"
+    month:  June 5
+    year: 2013
+    yearS: 2013.0605
+    location: Kuala Lumpur, Malaysia
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Epidemic Simulation Model by using Census Data"
+    author: "Hwang, K, Lee, H-R. and Lee, T."
+    venue: "2013 KIIE Annual Spring Conference"
+    month: May 24
+    year: 2013
+    yearS: 2013.0524
+    location: Yeosu, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "R0-adjusted Network Centrality to Identify Superspreaders of Epidemic Disease"
+    author: "Lee, H-R, Hwang, K. and Lee, T."
+    venue: "2013 KIIE Annual Spring Conference"
+    month: May 24
+    year: 2013
+    yearS: 2013.0524
+    location: Yeosu, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Ambulance Operation Simulation Model to Evaluate EMS system"
+    author: "Sung, I., Shin, K and Lee, T."
+    venue: "2013 KIIE Annual Spring Conference"
+    month: May 24
+    year: 2013
+    yearS: 2013.0524
+    location: Yeosu, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Measuring Combat Effectiveness by Using Network Representation"
+    author: "Lee, Y. and Lee, T."
+    venue: "21st Weapon Systems Conference"
+    month: November 19
+    year: 2013
+    yearS: 2013.1119
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Communication and Target Acquisition Modeling for a Combat Simulation in a Network Centric Warfare Environment"
+    author: "Nam, H., Shin, K. and Lee, T."
+    venue: "2013 International Military Science and Technology Fair"
+    month: July 12
+    year: 2013
+    yearS: 2013.0712
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Study on NCW analysis M&S based on combat information process"
+    author: "Noh, H. and Lee, T."
+    venue: "2014 KIIE Annual Spring Conference"
+    month: May 17
+    year: 2014
+    yearS: 2014.0517
+    location: Busan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Optimal resource allocation policy for emergency room under mass casualty incident"
+    author: "Lee, H-R. and Lee, T."
+    venue: "2014 KIIE Annual Spring Conference"
+    month: May 16
+    year: 2014
+    yearS: 2014.0516
+    location: Busan, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Algorithm for ambulance scheduling under mass casualty incident"
+    author: "Sung, I. and Lee, T."
+    venue: "2014 KIIE Annual Spring Conference"
+    month: May 16
+    year: 2014
+    yearS: 2014.0516
+    location: Busan, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Markov Decision Process model for prioritizing and distributing patients to multiplehospitals under mass casualty incident"
+    author: " Shin, K. and Lee, T."
+    venue: "2014 KIIE Annual Spring Conference"
+    month: May 16
+    year: 2014
+    yearS: 2014.0516
+    location: Busan, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Activity cancelling in P-ACD and its application to EMS system modeling"
+    author: "Lee, H-J., Shin, K. and Lee, T."
+    venue: "2014 Korea Society for Simulation (KSS) Annual Conference"
+    month: May 30
+    year: 2014
+    yearS: 2014.0530
+    location: Daegu, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "How modeling & simulation can enhance disaster response"
+    author: "Lee, T."
+    venue: "2014 Korean Operations Research and Management Science (KORMS) Annual Fall Conference"
+    month: November 1
+    year: 2014
+    yearS: 2014.1101
+    location: Suwon, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Cooperative MCLP for emergency department location problem"
+    author: "Lee, T. and Jang, H."
+    venue: "INFORMS Annual Meeting"
+    month: November 9
+    year: 2014
+    yearS: 2014.1109
+    location: San Francisco, CA, USA
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Simultaneous location of trauma centers and helicopters for emergency medical service planning"
+    author: "Cho, S-H., Jang, H., Lee, T., and Turner, J."
+    venue: "INFORMS Annual Meeting"
+    month: November 10
+    year: 2014
+    yearS: 2014.1110
+    location: San Francisco, CA, USA
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Key issues in modeling NCW environment for combat simulation"
+    author: "Lee, T."
+    venue: "ROK Army Conference on Modeling & Simulation"
+    month: November 18
+    year: 2014
+    yearS: 2014.1118
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Framework to manipulate imperfect information for NCW simulation"
+    author: "Noh, H. and Lee, T."
+    venue: "ROK Army Conference on Modeling & Simulation"
+    month: November 18
+    year: 2014
+    yearS: 2014.1118
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Optimal resource allocation policy for emergency room under mass casualty incident"
+    author: "Lee, H-R. and Lee, T."
+    venue: "Korean Society for Industrial and Applied Mathematics (KSIAM) Annual Meeting"
+    month: November 21
+    year: 2014
+    yearS: 2014.1121
+    location: Jeju, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Patient Prioritization and Hospital Selection under Mass Casualty Incident by using Approximate Dynamic Program"
+    author: "Shin, K. and Lee, T."
+    venue: "2015 KIIE Annual Spring Conference"
+    month: April 9
+    year: 2015
+    yearS: 2015.0409
+    location: Jeju, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Scenario-based Ambulance Location Problem under Various Dispatching Protocols"
+    author: "Sung, I. and Lee, T."
+    venue: "2015 KIIE Annual Spring Conference"
+    month: April 9
+    year: 2015
+    yearS: 2015.0409
+    location: Jeju, Korea
+    topics: disaster-response
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Combat Effectiveness Measure by using Network Representation"
+    author: "Lee, Y. and Lee, T."
+    venue: "2015 KIIE Annual Spring Conference"
+    month: April 9
+    year: 2015
+    yearS: 2015.0409
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Modeling and Simulation for Evaluating the C3 Structure for a NCW Mission Environment"
+    author: "Nam, H. and Lee, T."
+    venue: "2015 Winter Simulation Conference"
+    month: December 7
+    year: 2015
+    yearS: 2015.1207
+    location: Huntington Beach, CA, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Measuring and Visualizing Combat Effectiveness"
+    author: "Lee, Y. and Lee, T."
+    venue: "2015 Winter Simulation Conference"
+    month: December 7
+    year: 2015
+    yearS: 2015.1207
+    location: Huntington Beach, CA, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Location Problem for Passive Bistatic Radar to Detect Small Unmanned Aerial Vehicle"
+    author: "Back, I. and Lee, T."
+    venue: "2015 KIIE Annual Fall Conference"
+    month: November 7
+    year: 2015
+    yearS: 2015.1107
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Analysis on Emergency Medical Service (EMS) Call Log for EMS System Design"
+    author: "Lee, H-J. and Lee, T."
+    venue: "2015 KIIE Annual Fall Conference"
+    month: November 7
+    year: 2015
+    yearS: 2015.1107
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Case Study: Emergency Department Simulation for SMC"
+    author: "Lee, W., Shin, K., Lee, H-R., Lee, T. and Kang, W."
+    venue: "2015 KIIE Annual Spring Conference"
+    month: April 15
+    year: 2016
+    yearS: 2016.0415
+    location: Jeju, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Experimental Study on the Effect of Imperfect Information on Combat Decision Making"
+    author: "Noh, H. and Lee, T."
+    venue: "2016 Korea Society for Simulation Annual Fall Conference"
+    month: October 28
+    year: 2016
+    yearS: 2016.1028
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Approximate Dynamic Programming by using Monte Carlo Tree Search and Deep Neural Network"
+    author: "Shin, K. and Lee, T."
+    venue: "2016 KIIE Annual Fall Conference"
+    month: November 19
+    year: 2016
+    yearS: 2016.1119
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Detecting Changes in Health Care Service Use Pattern for Health Map Analysis"
+    author: "Kim, Y. and Lee, T."
+    venue: "2016 KIIE Annual Fall Conference"
+    month: November 19
+    year: 2016
+    yearS: 2016.1119
+    location: Seoul, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Comparative Study on Spatio-temporal Demand Prediction Models: Case of Emergency Medical Service"
+    author: "Lee, H-J. and Lee, T."
+    venue: "2016 KIIE Annual Fall Conference"
+    month: November 19
+    year: 2016
+    yearS: 2016.1119
+    location: Seoul, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Monte Carlo Tree Search Algorithm combined with Neural Network Learning"
+    author: "Shin, K. and Lee, T."
+    venue: "2017 KIIE Annual Spring Conference"
+    month: April 28
+    year: 2017
+    yearS: 2017.0428
+    location: Yeosu, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Discrete Choice Model to Estimate the Expected Volume of Health Care Service Use: Case of Perinatal Care"
+    author: "Hwang, K. and Lee, T."
+    venue: "2017 KIIE Annual Spring Conference"
+    month: April 27
+    year: 2017
+    yearS: 2017.0427
+    location: Yeosu, Korea
+    topics: healthcare-logistics
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Analysis on Selective Passenger Admission by using Markov Reward Model"
+    author: "Nam, H. and Lee, T."
+    venue: "2017 KIIE Annual Spring Conference"
+    month: April 27
+    year: 2017
+    yearS: 2017.0427
+    location: Yeosu, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Reducing emergency department overcrowding –five patient buffer concepts in comparison"
+    author: "Kolb, E., Peck, J.S., Schoening, S. and Lee, T."
+    venue: "2008 Winter Simulation conference"
+    month: December 07
+    year: 2008
+    yearS: 2008.1207
+    location: Orlando, FL, USA
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=1517010"
+
+  - title: "Decoupling (un)loading operations from the land-sea interface in port service: the mobile floating port concept"
+    author: "Morrison, J.R. and Lee, T."
+    venue: "Fifth International Conference on Axiomatic Design"
+    month: March 26
+    year: 2009
+    yearS: 2009.0326
+    location: Lisbon, Portugal
+    topics: system-engineering
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.axiomaticdesign.com/technology/icad/icad2009/icad2009_08.pdf"
+
+  - title: "Capacitative deionization process with decoupled charging and discharging flow schemes"
+    author: "Barman, I., Lee, T., Heo, G. and Suh, N.P."
+    venue: "Fifth International Conference on Axiomatic Design"
+    month: March 25
+    year: 2009
+    yearS: 2009.0325
+    location: Lisbon, Portugal
+    topics: system-engineering
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.axiod.com/technology/icad/icad2009/icad2009_26.pdf"
+
+  - title: "A graph theory based method for functional decoupling of a design with complex interaction structure"
+    author: "Oh, H.L., Lee, T. and Lipowski, R."
+    venue: "ASME Conference"
+    month: August 15
+    year: 2010
+    yearS: 2010.0815
+    location: Montreal, Canada
+    topics: system-engineering
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1610873"
+
+  - title: "A GA-based approach for container unloading scheduling problem with mobile harbor’s stability constraint"
+    author: "Shin, K. and Lee, T."
+    venue: "International Conference on Logistics and Maritime Systems"
+    month: September 15
+    year: 2010
+    yearS: 2010.0915
+    location: Busan, Korea
+    topics: system-engineering
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A study of scheduling algorithm for mobile harbor with an extended M-parallel machine problem"
+    author: "Sung, I., Nam, H. and Lee, T."
+    venue: "International Conference on Logistics and Maritime Systems"
+    month: September 15
+    year: 2010
+    yearS: 2010.0915
+    location: Busan, Korea
+    topics: system-engineering
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Outpatients appointment scheduling with multi-doctor sharing resources"
+    author: "Yun N., Jang, H. and Lee, T."
+    venue: "2010 Winter Simulation Conference"
+    month: December 5
+    year: 2010
+    yearS: 2010.1205
+    location: Baltimore, MD, USA
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/abstract/document/5679023/"
+
+  - title: "Identifying critical infrastructure interdependencies for healthcare operations during extreme events"
+    author: "Moon, J. and Lee, T."
+    venue: "2nd International Conference on Complex Sciences: Theory and Applications"
+    month: December 5
+    year: 2012
+    yearS: 2012.1205
+    location: Santa Fe, NM, USA
+    topics: disaster-response
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/chapter/10.1007/978-3-319-03473-7_23"
+
+
+  - title: "A simulation-based iterative method for a trauma center – air ambulance location problem"
+    author: "Lee, T., Jang, H., Cho, S-H., and Turner, J.G."
+    venue: "2012 Winter Simulation Conference"
+    month: December 12
+    year: 2012
+    yearS: 2012.1212
+    location: Berlin, Germany
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=2429871"
+
+  - title: "Modeling requirement for an emergency medical service system design evaluator"
+    author: "Sung, I. and Lee, T."
+    venue: "2012 Winter Simulation Conference"
+    month: December 11
+    year: 2012
+    yearS: 2012.1211
+    location: Berlin, Germany
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/abstract/document/6465089/"
+
+  - title: "A measure to assess combat effectiveness using network representation"
+    author: "Lee, Y. and Lee, T."
+    venue: "2013 Summer Computer Simulation Conference"
+    month: July 9
+    year: 2013
+    yearS: 2013.0709
+    location: Toronto, ON, Canada
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=2557702"
+
+  - title: "A framework to model the interdependencies among critical infrastructure using the nominal group technique(NGT)"
+    author: "Moon, J., Lee, D., Lee, T., and Ahn, J."
+    venue: "Asia-Pacific Council on Systems Engineering Conference (APCOSEC)"
+    month: September 11
+    year: 2013
+    yearS: 2013.0911
+    location: Yokohama, Japan
+    topics: disaster-response
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Communications modeling for a combat simulation in a network centric warfare environment"
+    author: "Shin, K., Nam, H., and Lee, T."
+    venue: "2013 Winter Simulation Conference"
+    month: December 10
+    year: 2013
+    yearS: 2013.1210
+    location: Washington D.C., USA
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=2676171"
+
+  - title: "Identifying superspreaders for epidemics using R0-adjusted network centrality"
+    author: "Lee, T., Lee, H.R., and Hwang, K."
+    venue: "2013 Winter Simulation Conference"
+    month: December 9
+    year: 2013
+    yearS: 2013.1209
+    location: Washington D.C., USA
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=2676262"
+
+  - title: "Emergency Medical Service (EMS) system design evaluator"
+    author: "Shin, K., Sung, I., and Lee, T."
+    venue: "2013 Winter Simulation Conference"
+    month: December 10
+    year: 2013
+    yearS: 2013.1210
+    location: Washington D.C., USA
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=2676282"
+
+  - title: "Dependency Structure Modeling Framework Using Expert Survey Based Group Decision"
+    author: "Moon, J.R., Lee, D., Lee, T. and Ahn, J."
+    venue: "16th International DSM Conference"
+    month: July 3
+    year: 2014
+    yearS: 2014.0703
+    location: Paris, France
+    topics: system-engineering
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Ambulance Location Problem with Stochastic Call Arrivals under Nearest Available Dispatching Policy"
+    author: "Sung I. and Lee, T."
+    venue: "International Conference on Health Care Systems Engineering"
+    month: May 27
+    year: 2015
+    yearS: 2015.0527
+    location: Lyon, France
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/chapter/10.1007/978-3-319-35132-2_10"
+
+  - title: "Markov Decision Process Model for Patient Admission Decision at an Emergency Department in Disasters"
+    author: "Lee, H-R. and Lee, T."
+    venue: "International Conference on Health Care Systems Engineering"
+    month: May 29
+    year: 2015
+    yearS: 2015.0529
+    location: Lyon, France
+    topics: disaster-response
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/chapter/10.1007%2F978-3-319-35132-2_18"
+
+  - title: "Axiomatic Design: 30 Years After"
+    author: "Nordlund, M., Kim, S-G., Lee, T."
+    venue: " 2015 International Mechanical Engineering Congress and Exposition"
+    month: November 17
+    year: 2015
+    yearS: 2015.1117
+    location: Houston, TX, USA
+    topics: disaster-response
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2501477"
+
+  - title: "EMSSIM: Emergency Medical Service Simulator with geographic and medical details"
+    author: "Moon, I-C., Bae, J-W., Lee, J., Kim, D., Lee, H-R., Lee, T., Cha, W.C., Kim, J-H., and Kim, G"
+    venue: " 2015 International Mechanical Engineering Congress and Exposition"
+    month: December 7
+    year: 2015
+    yearS: 2015.1207
+    location: Huntington Beach, CA, USA
+    topics: disaster-response
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/abstract/document/7408252/"
+
+  - title: "A structured approach for constructing high fidelity ED simulation"
+    author: "Lee, W., Shin, K., Lee, H-R., Shin, H., Lee, T."
+    venue: "2016 Winter Simulation Conference"
+    month: December 12
+    year: 2016
+    yearS: 2016.1212
+    location: Washington D.C., USA
+    topics: healthcare-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/abstract/document/7822240/"
+
+  - title: "Characterizing emergency responses in localities with different social infrastructure using EMSSim"
+    author: "Lee, T., Shin, K., Lee, H-R., Lee, H-J., Sung, I., Lee, J., and Moon, I-C."
+    venue: "2016 Winter Simulation Conference"
+    month: December 12
+    year: 2016
+    yearS: 2016.1212
+    location: Washington D.C., USA
+    topics: disaster-response
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/abstract/document/7822238/"
+
+  - title: "A choice model for estimating realized accessibility: case study for obstetrics care in Korea"
+    author: "Hwang, K., Jang, H., Lee, T., Kim, M., Shin, H., and Lee, T."
+    venue: "3rd International Conference on Health Care Systems Engineering"
+    month: May 30
+    year: 2017
+    yearS: 2017.0530
+    location: Florence, Italy
+    topics: healthacre-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/chapter/10.1007/978-3-319-66146-9_7"
+
+  - title: "A Location Problem for Medically Under-served Areas in Korea"
+    author: "Jang, H., Hwang, K., Lee, T., Kim, M., Shin, H., and Lee, T."
+    venue: "3rd International Conference on Health Care Systems Engineering"
+    month: May 30
+    year: 2017
+    yearS: 2017.0530
+    location: Florence, Italy
+    topics: healthacre-logistics
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/chapter/10.1007/978-3-319-66146-9_6"
+
+  - title: "A comprehensive study on patient flow improvement solutions and their implementation strategies in an outpatient system"
+    author: "Lee, Y. and Lee, T."
+    venue: "IE Interfaces"
+    month: March
+    year: 2010
+    yearS: 2010.03
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "A model for the association of the call volume and unavailable for response interval on the delayed ambulance response for out-of-hospital cardiac arrest using a geographic information system"
+    author: "Ahn, K.O., Shin, S.D., Cha, W.C., Jun, C.M., Lee, T., and Pirrallo, R.G."
+    venue: "Prehospital Emergency Care"
+    month: October
+    year: 2010
+    yearS: 2010.10
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.tandfonline.com/doi/abs/10.3109/10903127.2010.497895"
+
+  - title: "Design of an agent-based NCW modeling system"
+    author: "Park, S., Shin, H., Lee, T., and Choi, B."
+    venue: "Journal of the Korean Society for Simulation"
+    month: December
+    year: 2010
+    yearS: 2010.12
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Managing System Design Process Using Axiomatic Design:&nbsp;A Case on KAIST Mobile Harbor Project"
+    author: "Lee, T. and Park, G."
+    venue: "SAE International Journal of Materials and Manufacturing"
+    month: August
+    year: 2010
+    yearS: 2010.08
+    location:
+    topics: system-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://saematman.saejournals.org/content/3/1/125.short"
+
+  - title: "Linear Planning and Simulation for Allocation of Ambulances in a Two tiered Emergency Medical Service System"
+    author: "Kim, T.H., Shin, S.D., Ahn, K.O., Lee, T., Jun, C.M., Cha, W.C., and Song, K.J."
+    venue: "Journal of the Korean Society of Emergency Medicine"
+    month: Feburary
+    year: 2011
+    yearS: 2011.02
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Gender differences in consumers’ perception of online consumer reviews"
+    author: "Bae, S.Y. and Lee, T."
+    venue: "Electronic Commerce Research"
+    month: May
+    year: 2011
+    yearS: 2011.05
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://link.springer.com/article/10.1007/s10660-010-9072-y"
+
+  - title: "Product type and consumers’ perception of online consumer reviews"
+    author: "Bae, S.Y. and Lee, T."
+    venue: "Electronic Markets"
+    month: December
+    year: 2011
+    yearS: 2011.12
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://link.springer.com/article/10.1007/s12525-011-0072-0"
+
+  - title: "Review on modeling and simulation of large-scale and complex disaster scenarios"
+    author: "Moon, I-C. and Lee, T."
+    venue: "SCS M&S Magazine"
+    month: January
+    year: 2012
+    yearS: 2012.01
+    location:
+    topics: disaster-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Heuristics for locating two types of public healthcare facilities"
+    author: "Kim, D-G., Kim, Y-D., and Lee, T."
+    venue: "Industrial Engineering & Management Systems"
+    month: June
+    year: 2012
+    yearS: 2012.06
+    location:
+    topics: healthcare-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://central.oak.go.kr/repository/journal/11097/SGHHEA_2012_v11n2_202.pdf"
+
+  - title: "Scheduling algorithms for Mobile Harbor: an extended m-parallel machine problem"
+    author: "Sung, I., Nam, H., and Lee, T."
+    venue: "International Journal of Industrial Engineering:Theory, Applications and Practice"
+    month:
+    year: 2013
+    yearS: 2013.00
+    location:
+    topics: system-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://web.a.ebscohost.com/abstract?site=ehost&scope=site&jrnl=1943670X&AN=86970678&h=cWeaBOF57z5NhbMUjfmF5rjlm7cJkJvl0geBoTGl4ftqzZkaACtmYENFJkKuNKzEyaNmiZZwxmDX5gjRUSSD7w%3d%3d&crl=f&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d1943670X%26AN%3d86970678"
+
+  - title: "Design of carrier-based offshore CCS system: plant location and fleet assignment"
+    author: "Nam, H., Lee, T., Lee, J., Lee, J., and Chung, H."
+    venue: "International Journal of Greenhouse Gas Control"
+    month: January
+    year: 2013
+    yearS: 2013.01
+    location:
+    topics: system-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.sciencedirect.com/science/article/pii/S1750583612002356"
+
+  - title: "Parameterized Activity Cycle Diagram and its application"
+    author: "Choi, B.K., Kang, D., Lee, T., Jamjoom, A.A., and Abulkhair, M.F."
+    venue: "ACM Transactions on Modeling and Computer Simulation"
+    month: October
+    year: 2013
+    yearS: 2013.10
+    location:
+    topics: modeling-simulation
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://dl.acm.org/citation.cfm?id=2501593"
+
+  - title: "Untangling the antecedents of initial trust in web-based health information: the roles of argument quality, source expertise, and user perceptions of information quality and risk"
+    author: "Yi, M., Yoon, J.J., Lee, T., and Davis, J.M."
+    venue: "Decision Support Systems"
+    month: April
+    year: 2013
+    yearS: 2013.04
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.sciencedirect.com/science/article/pii/S0167923613000572"
+
+  - title: "A scheduling problem for a novel container transport system: a case of Mobile Harbor operation schedule"
+    author: "Nam, H. and Lee, T."
+    venue: "Flexible Services and Manufacturing Journal"
+    month: December
+    year: 2013
+    yearS: 2013.12
+    location:
+    topics: system-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://link.springer.com/article/10.1007/s10696-012-9135-6"
+
+  - title: "Container loading and unloading scheduling for a Mobile Harbor system: a global and local search method"
+    author: "Shin, K. and Lee, T."
+    venue: "Flexible Services and Manufacturing Journal"
+    month: December
+    year: 2013
+    yearS: 2013.12
+    location:
+    topics: system-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://link.springer.com/article/10.1007/s10696-012-9134-7"
+
+  - title: "Axiomatic Design for eco-design: eAD+"
+    author: "Morrison, J.R., Azhar, M., Lee, T. and Suh, H."
+    venue: "Journal of Engineering Design"
+    month: October
+    year: 2013
+    yearS: 2013.10
+    location:
+    topics: system-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.tandfonline.com/doi/abs/10.1080/09544828.2013.822150"
+
+  - title: "Network-based metric for measuring combat effectiveness"
+    author: "Lee, Y. and Lee, T."
+    venue: "Defence Science Journal"
+    month: March
+    year: 2014
+    yearS: 2014.03
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://202.159.220.131/ojs/index.php/dsj/article/view/5534"
+
+  - title: "Effectiveness of dispersed commute hours on infectious disease spread"
+    author: "Lee, H-R. and Lee, T."
+    venue: "SCS M&S Magazine"
+    month: December
+    year: 2014
+    yearS: 2014.12
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Simulation model for pandemic disease spreading by using census data"
+    author: "Hwang, K., Lee, T. and Lee, H.R."
+    venue: "Journal of the Korean Institute of Industrial Engineers"
+    month: April
+    year: 2014
+    yearS: 2014.04
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02388726"
+
+  - title: "Priority assignment for emergency medical service provision in disaster by considering resource limitation"
+    author: "Shin, K. and Lee, T."
+    venue: "Journal of the Korean Society of Hazard Mitigation"
+    month: April
+    year: 2014
+    yearS: 2014.04
+    location:
+    topics: disaster-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=BJHHD8_2014_v14n2_159"
+
+  - title: "Simultaneous location of trauma centers and helicopters for emergency medical service planning"
+    author: "Cho, S.H., Jang, H., Lee, T. and Turner, J.G."
+    venue: "Operations Research"
+    month: July
+    year: 2014
+    yearS: 2014.07
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://pubsonline.informs.org/doi/abs/10.1287/opre.2014.1287"
+
+  - title: "Group decision procedure to model the dependency structure of complex systems: framework and case study for critical infrastructures"
+    author: "Moon, J.R., Lee, D., Lee, T., and Ahn, J."
+    venue: "Systems Engineering"
+    month: July
+    year: 2015
+    yearS: 2015.07
+    location:
+    topics: systems-engineering
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://onlinelibrary.wiley.com/doi/10.1002/sys.21306/full"
+
+  - title: "Demand point aggregation method for covering problems with gradual coverage"
+    author: "Jang, H. and Lee, T."
+    venue: "Computers and Operations Research"
+    month: August
+    year: 2015
+    yearS: 2015.08
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.sciencedirect.com/science/article/pii/S0305054815000192"
+
+  - title: "Combining syndromic surveillance and ILI data using particle filter for epidemic state estimation"
+    author: "Lee, T. and Shin, H."
+    venue: "Flexible Services and Manufacturing Journal"
+    month: June
+    year: 2016
+    yearS: 2016.06
+    location:
+    topics: healthcare-logistics
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/article/10.1007/s10696-014-9204-0"
+
+  - title: "Optimal allocation of emergency medical resource under mass casualty incident: patient prioritization by column generation approach"
+    author: "Sung, I. and Lee, T."
+    venue: "European Journal of Operations Research"
+    month: July
+    year: 2016
+    yearS: 2016.07
+    location:
+    topics: disaster-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.sciencedirect.com/science/article/pii/S0377221716000734"
+
+  - title: "Study on the optimal deployment of the passive radar system for detecting small Unmanned Aerial Vehicles"
+    author: "Baek, I. and Lee, T."
+    venue: "Journal of KIMST"
+    month: August
+    year: 2016
+    yearS: 2016.08
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "A modeling of information process concept for analyzing information effect in combat simulation"
+    author: "Noh, H., Lee, Y and Lee, T."
+    venue: "Journal of KIMST"
+    month: Decenmber
+    year: 2016
+    yearS: 2016.12
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Scenario-based approach for the ambulance location problem with stochastic call arrivals under a dispatching policy"
+    author: "Sung, I. and Lee, T."
+    venue: "Flexible Services and Manufacturing Journal"
+    month: December
+    year: 2016
+    yearS: 2016.12
+    location:
+    topics: disaster-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/article/10.1007/s10696-016-9271-5"        
+
+  - title: "The effect of geographic units of analysis on measuring geographic variation in medical services utilization"
+    author: " Kim, AM., Park, JH., Kang, S., Hwang, K. and Lee, T. and Kim, Y."
+    venue: "Journal of Preventive Medicine and Public Health"
+    month:
+    year: 2016
+    yearS: 2016
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4977766/"
+
+  - title: "Markov decision process model for patient admission decision at an emergency department under a surge demand"
+    author: "Lee, H-R. and Lee, T."
+    venue: "Flexible Services and Manufacturing Journal"
+    month: February
+    year: 2017
+    yearS: 2017.02
+    location:
+    topics: disaster-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/article/10.1007/s10696-017-9276-8"
+
+  - title: "The Choice of Quality under Competition and Regulation on Semi-Altruistic Health Care Providers"
+    author: "Kim, T., and Lee, T."
+    venue: "2018 KIIE Annual Spring Conference"
+    month: April 4-7
+    year: 2018
+    yearS: 2018.0404
+    location: Gyeongju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Optimization problem to find location of designated landing and taking-off areas in low altitude UAS Traffic Management system"
+    author: "Lee, H.-R., Kim, T., Shin, H., and Lee, T."
+    venue: "2018 KIIE Annual Spring Conference"
+    month: April 4-7
+    year: 2018
+    yearS: 2018.0404
+    location: Gyeongju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Study on Countermaneuver Support Mission Scheduling Considering Cooperation"
+    author: "Kim, S.C. and Lee, T."
+    venue: "Journal of the Korean Institute of Industrial Engineers"
+    month: April
+    year: 2018
+    yearS: 2018.04
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07414317#"
+
+  - title: "Patient Prioritization and Hospital Selection for EMS Response to Mass Casualty Incident"
+    author: "Shin, K. and Lee, T."
+    venue: "2018 INFORMS International"
+    month: June 18
+    year: 2018
+    yearS: 2018.0618
+    location: Taipei, Taiwan
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Supervised learning to solve decentralized patient admission problem in mass casualty incident"
+    author: "Lee, H.-R. and Lee, T."
+    venue: "2018 INFORMS International"
+    month: June 18
+    year: 2018
+    yearS: 2018.0618
+    location: Taipei, Taiwan
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Evaluation of Disaster Response System using Agent-Based Model with Geospatial and Medical Details"
+    author: "Bae, J.W., Shin, K., Lee, H-R., Lee, H-J., Lee, T., Kim, J-H., Cha, W.C., Kim, G, and Moon, I-C."
+    venue: " IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+    month: September
+    year: 2018
+    yearS: 2018.09
+    location:
+    topics: disaster-response
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7874209"
+
+  - title: "Patient Admission Decision at Emergency Department under Mass Casualty Incident"
+    author: "Lee, T. and Lee, H.-R."
+    venue: "2018 INFORMS Annual Meeting"
+    month: November 5
+    year: 2018
+    yearS: 2018.1105
+    location: Phoenix, Arizona, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Location Model with Patient Choices and Care Facility Attractiveness"
+    author: "Lee, T. and Hwang, K."
+    venue: "2018 INFORMS Annual Meeting"
+    month: November 5
+    year: 2018
+    yearS: 2018.1105
+    location: Phoenix, Arizona, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Location Problem for designated landing and take-off facilities considering airspace congestion"
+    author: "Shin, H., Lee, H.-R., Kim, T., and Lee, T."
+    venue: "2018 KIIE Annual Fall Conference"
+    month: November 9
+    year: 2018
+    yearS: 2018.1109
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Improving the measurement of the Korean emergency medical System's spatial accessibility"
+    author: "Shin, K., and Lee, T."
+    venue: "Applied geography"
+    month: November
+    year: 2018
+    yearS: 2018.11
+    location: 
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://doi.org/10.1016/j.apgeog.2018.08.009"
+
+  - title: "SPartAN: A Meta-algorithm for Reinforcement Learning using State Partitioning and Action Network"
+    author: "Shin, K. and Lee, T."
+    venue: "Winter Simulation Conference 2018"
+    month: December 9-12
+    year: 2018
+    yearS: 2018.1209
+    location: Gothenburg, Sweden
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "An iterative method for simultaneously locating trauma centers and helicopters through the planning horizon"
+    author: "Jang, H. and Lee, T."
+    venue: "Operations Research for Health Care"
+    month: December
+    year: 2018
+    yearS: 2018.12
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.sciencedirect.com/science/article/pii/S2211692317301169"
+
+  - title: "MDP model considering mental inertia of a decision performer to the optimal solution"
+    author: "Song, Y., Shin, K. and Lee, T."
+    venue: "2019 KIIE Annual Spring Conference"
+    month: April 11
+    year: 2019
+    yearS: 2019.0411
+    location: Gwangju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Modeling the Patients’ Medical Use Behavior"
+    author: "Park, K. and Lee, T."
+    venue: "2019 KIIE Annual Spring Conference"
+    month: April 11
+    year: 2019
+    yearS: 2019.0411
+    location: Gwangju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Designing robust rollout plan for better rural perinatal care system in Korea"
+    author: "Jang, H., Hwang, K., Lee, T., and Lee, T."
+    venue: "European Journal of Operational Research"
+    month: April
+    year: 2019
+    yearS: 2019.04
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.sciencedirect.com/science/article/pii/S0377221718308713"
+
+  - title: "Improved Cooperative Multi-agent Reinforcement Learning Algorithm Augmented by Mixing Demonstrations from Centralized Policy"
+    author: "Lee, H.-R. and Lee, T."
+    venue: "18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2019)"
+    month: May 16
+    year: 2019
+    yearS: 2019.0512
+    location: Montreal, Canada
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1089.pdf"
+
+  - title: "A Meta Algorithm For Reinforcement Learning: Emergency Medical Service Resource Prioritization Problem in an MCI as an example"
+    author: "Shin, K. and Lee, T."
+    venue: "4th International Conference on Health Care Systems Engineering"
+    month: June 1
+    year: 2019
+    yearS: 2019.0601
+    location: Montreal, Canada
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://hdl.handle.net/10203/262499"
+
+  - title: "Decision Making under Compliance Uncertainty"
+    author: "Lee, T., Shin, K., and Song, Y."
+    venue: "2019 INFORMS annual meeting"
+    month: October 20-23
+    year: 2019
+    yearS: 2019.10
+    location: Seattle, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Emergency Medical Service Resource Allocation in a Mass Casualty Incident by Integrating Patient Prioritization and Hospital Selection Problems"
+    author: "Shin, K., and Lee, T."
+    venue: "IISE Transactions"
+    month: February
+    year: 2020
+    yearS: 2020.02
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.tandfonline.com/doi/full/10.1080/24725854.2020.1727069"
+
+  - title: "Multi-agent reinforcement learning algorithm to solve a partially-observable multi-agent problem in disaster response"
+    author: "Lee, H.-R., and Lee, T."
+    venue: "European Journal of Operational Research"
+    month: May
+    year: 2021
+    yearS: 2021.05
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.sciencedirect.com/science/article/pii/S0377221720308043"
+
+  - title: "Demand modelling for emergency medical service system with multiple casualties cases: k-inflated mixture regression model"
+    author: "Lee, H.-J., and Lee, T."
+    venue: "Flexible Services and Manufacturing Journal"
+    month: February
+    year: 2021
+    yearS: 2021.02
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://link.springer.com/article/10.1007/s10696-020-09402-7"
+
+  - title: "Designing a Deep-learning-based Multi-input Model to Predict the Outcome of R&D Projects"
+    author: "Kim, H., Lee, T. and Jang, H."
+    venue: "2020 KIIE Annual Fall Conference"
+    month: November 13
+    year: 2020
+    yearS: 2020.1113
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Application and Optimization of Pooled Sample Test for COVID-19 diagnosis"
+    author: "Kim, J. and Lee, T."
+    venue: "2021 KIIE Annual Spring Conference"
+    month: June 4
+    year: 2021
+    yearS: 2021.0604
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Removing cardiopulmonary resuscitation artifact with generative adversarial network"
+    author: "Kim, Y. and Lee, T."
+    venue: "2021 KIIE Annual Spring Conference"
+    month: June 4
+    year: 2021
+    yearS: 2021.0604
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Agent based Epidemics Simulation for evaluating quarantine resource allocation"
+    author: "Lee, H.-J., Park, H., Jung, J., Kim, J., and Lee, T."
+    venue: "2021 KIIE Annual Spring Conference"
+    month: June 4
+    year: 2021
+    yearS: 2021.0604
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Effect of a policy adherence on the efficacy of a 'bubble' social distancing strategy"
+    author: "Park, H. and Lee, T."
+    venue: "2021 KIIE Annual Fall Conference"
+    month: November 12
+    year: 2021
+    yearS: 2021.1112
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+
+  - title: "Spatio-temporal effective reproduction number with inverse distance weighting"
+    author: "Jung, J. and Lee, T."
+    venue: "2021 KIIE Annual Fall Conference"
+    month: November 12
+    year: 2021
+    yearS: 2021.1112
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
+  - title: "Skyport location problem for urban air mobility system"
+    author: "Shin, H., Lee, T., Lee, H. R."
+    venue: "Computers and Operations Research"
+    month: November
+    year: 2021
+    yearS: 2021.1104
+    location:
+    topics: 
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.sciencedirect.com/science/article/pii/S0305054821003282"
+ 
+  - title: "Segmentized quarantine policy for managing a tradeoff between containment of infectious disease and social cost of quarantine"
+    author: "Kim, J. and Lee, T."
+    venue: "IISE Annual Conference and Expo 2022"
+    month: May 23
+    year: 2022
+    yearS: 2022.0523
+    location: Seattle, USA
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.scopus.com/record/display.uri?eid=2-s2.0-85137171619&origin=inward&txGid=a45bea1ad3f1838edf95fbd4f2cfc062"
+  
+  - title: "The effect of individual’s policy compliance decision on the spread of disease"
+    author: "Shin, H., and Lee, T"
+    venue: "2022 KIIE Annual Spring Conference"
+    month: June 2
+    year: 2022
+    yearS: 2022.0602
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+  
+  - title: "보상구조 설계를 위한 Successor Feature 기반 다중에이전트 강화학습 알고리즘"
+    author: "Molina Concha, D., Park, K., Lee, H., Lee, T., and Lee, C."
+    venue: "2022 KIIE Annual Spring Conference"
+    month: June 2
+    year: 2022
+    yearS: 2022.0602
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+  
+  - title: "Effectiveness of Social Distancing under Partial Compliance of Individuals"
+    author: "Shin, H., Park, K., Kim, H., and Lee, T."
+    venue: "2022 INFORMS annual meeting"
+    month: October 16
+    year: 2022
+    yearS: 2022.1016
+    location: Indianapolis, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
+  - title: "Optimal social distancing policy under partial social compliance"
+    author: "Shin, H., and Lee, T."
+    venue: "2023 KIIE Annual Spring Conference"
+    month: June 01
+    year: 2023
+    yearS: 2023.0601
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Epidemic Distance: Estimation and Application of the First Arrival Time"
+    author: "Jung, J., Kim, J., and Lee, T."
+    venue: "2023 KIIE Annual Spring Conference"
+    month: June 02
+    year: 2023
+    yearS: 2023.0602
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
+  - title: "Designing optimal payment system for functionally distinguishing medical institutions based on the characteristics of medical services"
+    author: "Lee, J. S. and Lee, T."
+    venue: "2023 KIIE Annual Spring Conference"
+    month: June 01
+    year: 2023
+    yearS: 2023.0601
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+  
+  - title: "PLCO 데이터의 변수 다각화를 통한 난소암 절대위험 예측 모델 성능 개선"
+    author: "Yeo. J., Cha, H. W. and Lee, T."
+    venue: "2023 KIIE Annual Spring Conference"
+    month: June 02
+    year: 2023
+    yearS: 2023.0602
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A Novel Choice Analysis Technique for Understanding Patients’ Hospital Selection"
+    author: "Kim, J., Lee, J., and Lee, T."
+    venue: "INFORMS Healthcare Conference 2023"
+    month: July 27
+    year: 2023
+    yearS: 2023.0727
+    location: Toronto, Canada
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""

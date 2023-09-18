@@ -1,0 +1,17 @@
+<div class="container">
+    {% for state in site.data.projects %}
+    <div class="status">
+    {% for topic in state.stateObj.topics %}
+        <div class='wrap-project-img'>
+            <div class='project-img-wrap'>
+                <img src="{{'/assets/img/projects/' | prepend: site.baseurl }}{{topic.img}}" alt="{{topic.name}}"/>
+            </div>
+        </div>
+        <div class='wrap-text'>
+            <h3>{{topic.name}}</h3>
+            <p>{{topic.introduction}} </p>
+        </div>
+    {% endfor %}
+    </div>
+    {% endfor %}
+</div>
