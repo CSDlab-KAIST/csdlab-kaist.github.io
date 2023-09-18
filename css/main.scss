@@ -1,0 +1,157 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
+@import
+  "bourbon/bourbon",
+  "base/base",
+  "neat/neat",
+  "layout"
+;
+
+h3 {
+  @media (max-width: 600px) {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+}
+
+.namecard img {
+  width: 170px;
+}
+
+
+.namecard {
+    clear: left;
+    padding: 0 0 0 0;
+}
+
+.namecard p {
+    fontsize: 0.9em;
+    margin: 0;
+}
+
+.person-img-wrap {
+  float: left;
+  margin: 5px 5px 5px 5px;
+}
+
+.project-img-wrap {
+  float: left;
+  margin: 15px 15px 15px 15px;
+}
+
+
+.position {
+  clear: left;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+.member-career {
+  margin: 0;
+}
+.member-career:last-child {
+  margin: 0 0 1rem 0;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
+}
+
+.wrap-img{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 25%;
+  min-width: 160px;
+  @media (min-width: 600px) {
+    max-width: 160px;
+  }
+}
+
+.wrap-project-img{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 25%;
+  min-width: 220px;
+  @media (min-width: 600px) {
+    max-width: 160px;
+  }
+}
+
+.wrap-text, .wrap-text-alumni{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 30px;
+  float: left;
+}
+
+.wrap-text{
+  width: 75%	
+}
+
+.wrap-text-alumni{
+  width: 100%
+}
+
+.spacing{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.position-members img {
+  width: 100%;
+  @media (min-width: 600px) {
+    width: 160px;
+  }
+  height: auto;
+}
+
+.member-name {
+  margin: 0;
+}
+
+.navigation .navigation-wrapper {
+    max-width: 70em;
+}
+
+.page-content .wrapper {
+    max-width: 70em;
+}
+
+.page-content .post-meta {
+    max-width: 70em;
+}
+
+  .site-footer .wrapper {
+    max-width: 70em;
+}
+
+
+
+.other-version-button {
+  float: right;
+
+  border: 1px solid #2980b9;
+  border-radius: 4px;
+  padding: 0 .5em;
+  line-height: 2;
+  display: inline-block;
+  
+  margin-top: 1em;
+}
