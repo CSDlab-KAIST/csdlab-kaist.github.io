@@ -2182,3 +2182,18 @@ papers:
         url:
     award: ""
     link: ""
+
+  - title: "Predicting research projects’ output using machine learning for tailored projects management"
+    author: "Kim, H., and Jang, H."
+    venue: "Asian Journal of Technology Innovation"
+    month: August
+    year: 2023
+    yearS: 2023.0808
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.tandfonline.com/doi/full/10.1080/19761597.2023.2243611"
