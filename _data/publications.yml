@@ -2197,3 +2197,33 @@ papers:
         url:
     award: ""
     link: "https://www.tandfonline.com/doi/full/10.1080/19761597.2023.2243611"
+
+  - title: "Patient Sharing Network Analysis of South Korean Hospitals using NHIS Claim Data"
+    author: "Im, J., Kim, J., and Lee, T."
+    venue: "2023 KIIE Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1103
+    location:
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Exploring Research Trends of Healthcare System Engineering using Chat-GPT"
+    author: "Kim, J., Kim, H., Lee, J. and Lee, T."
+    venue: "2023 KIIE Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1103
+    location:
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
