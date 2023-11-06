@@ -2257,3 +2257,18 @@ papers:
         url:
     award: ""
     link: ""
+
+  - title: "Optimal policies for alleviating patient concentration in metropolitan large hospitals"
+    author: "Lee, J. S. and Lee, T."
+    venue: "2023 KIIE Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1103
+    location:
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
