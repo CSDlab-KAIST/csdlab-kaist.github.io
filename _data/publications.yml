@@ -2213,6 +2213,36 @@ papers:
     award: ""
     link: ""
 
+  - title: "Optimal social distancing policy under partial social compliance"
+    author: "Shin, H., and Lee, T."
+    venue: "2023 INFORMS annual meeting"
+    month: October
+    year: 2023
+    yearS: 2023.1015
+    location:
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
+  - title: "Skyport location problem for urban air mobility system"
+    author: "Shin, H., and Lee, T."
+    venue: "2023 INFORMS annual meeting"
+    month: November
+    year: 2023
+    yearS: 2023.1016
+    location:
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
   - title: "Exploring Research Trends of Healthcare System Engineering using Chat-GPT"
     author: "Kim, J., Kim, H., Lee, J. and Lee, T."
     venue: "2023 KIIE Annual Fall Conference"
