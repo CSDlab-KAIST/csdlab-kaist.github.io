@@ -2204,7 +2204,7 @@ papers:
     month: November
     year: 2023
     yearS: 2023.1103
-    location:
+    location: Ulsan, Korea
     topics:
     type: conference-presentations
     materials:
@@ -2219,7 +2219,7 @@ papers:
     month: October
     year: 2023
     yearS: 2023.1015
-    location:
+    location: Pheonix, USA
     topics:
     type: conference-presentations
     materials:
@@ -2234,7 +2234,7 @@ papers:
     month: November
     year: 2023
     yearS: 2023.1016
-    location:
+    location: Pheonix, USA
     topics:
     type: conference-presentations
     materials:
@@ -2249,7 +2249,7 @@ papers:
     month: November
     year: 2023
     yearS: 2023.1103
-    location:
+    location: Ulsan, Korea
     topics:
     type: conference-presentations
     materials:
@@ -2264,7 +2264,22 @@ papers:
     month: November
     year: 2023
     yearS: 2023.1103
-    location:
+    location: Ulsan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Characterizing Multi-class Heterogeneity of Cancer Patients’ Local Hospital Bypassing Choices"
+    author: "Kim, J., Lee, J. and Lee, T."
+    venue: "2023 Korean Society for Preventive Medicine Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1123
+    location: Incheon, Korea
     topics:
     type: conference-presentations
     materials:
