@@ -2278,8 +2278,53 @@ papers:
     venue: "2023 Korean Society for Preventive Medicine Annual Fall Conference"
     month: November
     year: 2023
-    yearS: 2023.1123
+    yearS: 2023.1124
     location: Incheon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "An Improved Methodology for Delineating Hospital Service Area"
+    author: "Kim, H., Lee, J. S. and Lee, T."
+    venue: "2023 KIIE Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1103
+    location: Ulsan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Exploring optimal policies for alleviating patient concentration in metropolitan large hospitals using mathematical models and game theory"
+    author: "Lee, J. S. and Lee, T."
+    venue: "2023 Korean Society for Preventive Medicine Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1124
+    location: Incheon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Comparing Document Relation Extraction Utilizing Conventional Relation Extraction Model and Chat-GPT: A Focus on 5 Companies"
+    author: "Yeo. J., Lee, T., Moon, I. C."
+    venue: "2023 KIIE Annual Fall Conference"
+    month: November
+    year: 2023
+    yearS: 2023.1103
+    location: Ulsan, Korea
     topics:
     type: conference-presentations
     materials:
