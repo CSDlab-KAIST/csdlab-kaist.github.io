@@ -49,7 +49,8 @@
 
             - name: Kyeonghyeon Park
               email: kyeonghyeon.park@kaist.ac.kr
-              img: kyeonghyeon.jpg
+              # img: kyeonghyeon.jpg
+              img: kyeonghyeon_king.jpeg
               career:
                - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
                - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.              
