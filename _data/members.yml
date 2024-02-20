@@ -167,16 +167,16 @@
             #   cv:
             #   entered: 2020.09
 
-            - name: Jeong Yeo
-              email: faiiry9@kaist.ac.kr
-              img: jeong_230329.jpeg
-              career:
-               - 2022.2 UNIST Dept. of Human Factor Engineering, B.S.
-               - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
-              interest: Data science, Data analysis, Knowledge Graph for Finance
-              pageurl: /people/jeong
-              cv:
-              entered: 2022.03
+            # - name: Jeong Yeo
+            #   email: faiiry9@kaist.ac.kr
+            #   img: jeong_230329.jpeg
+            #   career:
+            #    - 2022.2 UNIST Dept. of Human Factor Engineering, B.S.
+            #    - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
+            #   interest: Data science, Data analysis, Knowledge Graph for Finance
+            #   pageurl: /people/jeong
+            #   cv:
+            #   entered: 2022.03
           
             - name: Yong Hoon Choi
               email: choeyhun@kaist.ac.kr
@@ -213,9 +213,20 @@
 
               pageurl: /people/anurag
               cv:
-              entered: 2023.03
+              entered: 2023.09
 
-## --------------MS Students------------------
+            - name: Joongchan Ahn
+              email: jchan.ahn@kaist.ac.kr
+              img: joongchan_1.jpeg
+              career:
+               - 2024.2 Hanyang University, Department of Industrial Engineering, B.S.
+               - 2024.2 ~  KAIST, Department of Industrial & Systems Engineering, M.S. Program
+              interest: Mathematical Optimization, Data Mining, Operations Research
+              pageurl: /people/joongchan
+              cv:
+              entered: 2024.02
+
+## --------------Undergraduate Students------------------
 
         - positionName: Undergraduate Researcher 
           positionMembers:
@@ -526,3 +537,11 @@
               currentOccupation: 
               img: junyoung.jpg
               leavingDate: 2023.08
+
+            - name: Jeong Yeo
+              email: 
+              career: M.S., 2024
+              thesis: Analyzing the Supply Chain Network Created from the Conventional Relation Extraction Model and ChatGPT: Focusing on S&P 500 Companies
+              currentOccupation: 
+              img: jeong_230329.jpeg
+              leavingDate: 2024.02
