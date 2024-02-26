@@ -237,6 +237,17 @@
               cv:
               entered: 2024.02
 
+            - name: Eunbi Na
+              email: eunbina@kaist.ac.kr
+              img: eunbi.jpeg
+              career:
+               - 2024.2 Korea University, Division of Health Policy and Management(1st Major), Department of Statistics(Duplicate Major),  B.A.
+               - 2024.2 ~ KAIST, Graduate school of Data Science, M.S. Program
+              interest: Data Science, Data Analytics
+              pageurl: /people/eunbi
+              cv:
+              entered: 2024.02
+
 ## --------------Undergraduate Students------------------
 
         - positionName: Undergraduate Researcher 
