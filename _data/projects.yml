@@ -4,17 +4,7 @@
 
 - stateObj:
     statename: Project lists
-    topics:
-      - name: Development of Unmanned aerial vehicle Traffic Management system
-        img: UTM.png
-        project: UTM
-        duration: April, 2017 ~ December, 2019
-        from: Korea Institute of Aviation Safety Technology
-        introduction: We participate in Korea-UAV Traffic Management (K-UTM) system development project team.
-         UTM system aims to fly many UAVs in airspace safely. Various technologies like obstacle detection and avoidance technology, traffic flow management system, UAV registration and flight admission algorithm consists UTM system.
-         We study to find optimal designated landing and take-off areas which will reduce the complexity of UAV flight path in airspace and decrease risk originated from uncontrolled landing and take-off of UAVs.
-         Traditional facility location problems are the basis of this study and characteristics of UAV flight are considered in modeling.
-    
+    topics:  
       - name: Development of Unmanned aerial vehicle Traffic Management system
         img: UTM.png
         project: UTM
