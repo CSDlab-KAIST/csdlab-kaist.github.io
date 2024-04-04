@@ -4,7 +4,7 @@
     {% for photo in state.stateObj.photos %}
         <div class='wrap-project-img'>
             <div class='project-img-wrap'>
-                <img src="{{'/assets/img/gallery//' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}"/>
+                <img src="{{'/assets/img/gallery//' | prepend: site.baseurl }}{{photo.name}}" alt="{{photo.content}}"/>
             </div>
         </div>
         <div class='wrap-text'>
