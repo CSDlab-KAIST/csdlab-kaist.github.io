@@ -1,8 +1,7 @@
 <div class="container">
     {% for state in site.data.gallery %}
     <div class="status">
-    {% for photoYear in state.stateObj.photos %}
-        {% for photo in photoYear.photoInfo %}
+    {% for photo in state.stateObj.photos.photoInfo %}
         <div class='wrap-gallery-img'>
             <div class='gallery-img-wrap'>
                 <img src="{{'/assets/img/gallery/' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}"/>
