@@ -12,7 +12,7 @@
 
 #         - photoYear: 2024
 #           photoInfo:           
-#             - name: people_220401_1.jpeg
+#             - img: people_220401_1.jpeg
 #               year: 2024
 #               month: April
 #               content: 2024 spring, group photo with professor
@@ -21,7 +21,7 @@
 
         - photoYear: 2024
           photoInfo:
-            - name: 240402_spring.jpg
+            - img: 240402_spring.jpg
               year: 2024
               month: April
               content: 2024 spring, group photo with professor
