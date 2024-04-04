@@ -1,0 +1,108 @@
+
+<div class="container">
+
+
+    {% for state in site.data.members %}
+    <img src="/assets/img/members/people_202404_1_crop.jpeg" alt="Lab members" style="width:600px;"/>
+
+
+    <div class="status">
+    <!--<h4 class="centered"> {{ state.stateObj.statename }}</h4>-->
+    {% for position in state.stateObj.position %}
+        <h3 class="centered position"><b>{{ position.positionName | prepend : "&lt " | append : " &gt" }}</b></h3> <!-- <position name> -->
+        {% unless position.positionMembers %}
+            <h4> We have no {{position.positionName}}</h4>
+        {% endunless %}
+
+        <div class="position-members">
+            {% if ((position.positionName != 'Alumni-M.S.') and (position.positionName != 'Alumni-Ph.D.'))%}
+                {% assign sorted_members = (position.positionMembers | sort: 'entered' %}
+            {% else %}
+                {% assign sorted_members = (position.positionMembers | sort: 'leavingDate' | reverse %}
+            {% endif %}
+            {% for member in sorted_members %}
+                {% if ((position.positionName == 'Alumni-M.S.') or (position.positionName == 'Alumni-Ph.D.')) %}
+                <div class='wrap-text-alumni'>
+                    <div class='namecard'>
+                    <h4 class="member-name">{{member.name}}</h4>
+                    {% for career in member.career %}
+                        <p class="member-career">{{career}}
+                        </p>
+                    {% endfor %}
+                    {% if position.positionName == 'Alumni-M.S.' %}
+                        Thesis Title: {{member.thesis}}</p>
+                    {% endif %}
+                    {% if position.positionName == 'Alumni-Ph.D.' %}
+                        Thesis Title: {{member.thesis}}</p>
+                    {% endif %}
+                    <p></p>
+                    </div>
+                </div>
+                {% else %}
+                {% if position.positionName == 'Members' %}
+                    <img src="/assets/img/members/people_family.jpg" alt="Lab members" width="300px"/>
+                    <!-- <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="Lab members"/> -->
+                {% else %}
+                    <div class='wrap-img'>
+                        <div class='person-img-wrap'>
+                            <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
+                        </div>
+                    </div>
+                {% endif %}
+
+                <!-- <div class='wrap-img'>
+                    <div class='person-img-wrap'>
+                        {% if member.name %}
+                            <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
+                        {% else %}
+                            <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="Lab members"/>
+                        {% endif %}
+
+                    </div>
+                </div> -->
+                <div class='wrap-text'>
+                    <div class='namecard'>
+                    {% if member.name %}
+                        <h4 class="member-name">{{member.name}}</h4>
+                    {% endif %}
+
+                    {% if member.email %}
+                        <p>E-mail: {{member.email}}</p>
+                    {% endif %}
+
+                    {% if member.interest %}
+                        <p>Research interest</p>
+                        <p>{{member.interest}}</p>
+                    {% endif %}
+
+                    <!--<p>Education</p>-->
+                    <!--{% for career in member.career %}-->
+                        <!--<p class="member-career">{{career}}-->
+                        <!--</p>-->
+                    <!--{% endfor %}-->
+
+                    {% if position.positionName == 'Alumni-M.S.' %}
+                        Thesis Title: {{member.thesis}}</p>
+                    {% endif %}
+
+                    {% if position.positionName == 'Alumni-Ph.D.' %}
+                        Thesis Title: {{member.thesis}}</p>
+                    {% endif %}
+
+                    {% if member.pageurl %}
+                        <p><a href="{{ member.pageurl | prepend: site.baseurl }}">Personal Page</a></p>
+                    {% endif %}
+
+                    {% if member.cv %}
+                        <p><a href="{{'/assets/cv/' | prepend: site.baseurl }}{{ member.cv }}">CV</a></p>
+                    {% endif %}
+                    <p></p>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+    </div>
+    {% endfor %}
+</div>
