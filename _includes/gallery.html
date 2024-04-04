@@ -1,7 +1,7 @@
 <div class="container">
     {% for state in site.data.gallery %}
     <div class="status">
-    {% for topic in state.stateObj.topics %}
+    {% for photo in state.stateObj.photos %}
         <div class='wrap-project-img'>
             <div class='project-img-wrap'>
                 <img src="{{'/assets/img/projects/' | prepend: site.baseurl }}{{topic.img}}" alt="{{topic.name}}"/>
