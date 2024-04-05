@@ -1,17 +1,22 @@
 <div class="container">
-    {% for state in site.data.gallery %}
-    <div class="status">
-    {% for photo in state.stateObj.photos %}
-        <h3>{{photo.year}}</h3>
-        <div class='wrap-gallery-img'>
-            <div class='gallery-img-wrap'>
-                <img src="{{'/assets/img/gallery/' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}"/>
-            </div>
+    {% assign years = site.data.gallery | map: 'year' | uniq %}
+    {% for year in years %}
+        <div class="gallery-year-section">
+            <div class="gallery-year-title">{{year}}</div>
+            {% for state in site.data.gallery %}
+                {% for photo in state.stateObj.photos %}
+                    {% if photo.year == year %}
+                        <div class='wrap-gallery-img'>
+                            <div class='gallery-img-wrap'>
+                                <img src="{{'/assets/img/gallery/' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}"/>
+                            </div>
+                        </div>
+                        <div class='wrap-text'>
+                        <p>{{photo.content}} </p>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
         </div>
-        <div class='wrap-text'>
-            <p>{{photo.content}} </p>
-        </div>
-    {% endfor %}
-    </div>
     {% endfor %}
 </div>
