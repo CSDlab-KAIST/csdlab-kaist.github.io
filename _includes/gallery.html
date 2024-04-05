@@ -1,10 +1,10 @@
 <div class="container">
     {% assign sorted_photos = site.data.gallery.stateObj.photos | sort: 'date' %}
     {% assign years = sorted_photos | map: 'year' | uniq %}
+    <div class="status">
     {% for year in years %}
         <div class="gallery-year-section">
             <h2 class="gallery-year-title">{{year}}</h2>
-            <div class="status">
                 {% for photo in sorted_photos %}
                     {% if photo.year == year %}
                         <div class='wrap-gallery-img'>
@@ -18,6 +18,6 @@
                     {% endif %}
                 {% endfor %}
             </div>
-        </div>
     {% endfor %}
+    </div>
 </div>
