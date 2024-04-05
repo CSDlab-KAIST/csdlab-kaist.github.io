@@ -11,11 +11,10 @@
 ## --------------Photo---------------------------
 
 #         - photoYear: _2024
-#           photoInfo:           
-#             - img: people_220401_1.jpeg
-#               year: _2024
-#               month: April
-#               content: 2024 spring, group photo with professor
+#           img: people_220401_1.jpeg
+#           year: _2024
+#           month: April
+#           content: 2024 spring, group photo with professor
 
 ## --------------Group Photo---------------------------
 
