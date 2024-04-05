@@ -1,6 +1,6 @@
 <div class="container">
     {% for state in site.data.gallery %}
-    {% assign sorted_photos = state.stateObj.photos | sort: 'date' %}
+    {% assign sorted_photos = state.stateObj.photos | sort: 'date' |reverse %}
     {% assign years = sorted_photos | map: 'year' | uniq %}
     <div class="status">
     {% for year in years %}
