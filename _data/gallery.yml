@@ -18,8 +18,26 @@
 
 ## --------------Group Photo---------------------------
 
-        - img: lab_240402.jpg
+        - img: lab_240402_1.jpeg
           year: 2024
           date: 2024.04.02.
           month: April
           content: 2024_spring, group photo with professor
+
+        - img: lab_230328_1.jpeg
+          year: 2023
+          date: 2023.03.28.
+          month: March
+          content: 2023_spring, group photo with professor
+
+        - img: lab_220407_1.jpeg
+          year: 2022
+          date: 2022.04.01.
+          month: April
+          content: 2022_spring, group photo with professor
+
+        - img: lab_200925_1.jpeg
+          year: 2020
+          date: 2020.09.25.
+          month: September
+          content: 2020_fall, group photo with professor
