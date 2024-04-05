@@ -10,16 +10,16 @@
 
 ## --------------Photo---------------------------
 
-#         - photoYear: 2024
+#         - photoYear: _2024
 #           photoInfo:           
 #             - img: people_220401_1.jpeg
-#               year: 2024
+#               year: _2024
 #               month: April
 #               content: 2024 spring, group photo with professor
 
 ## --------------Group Photo---------------------------
 
-        - photoYear: 2024
+        - photoYear: _2024
           photoInfo:
             - img: lab_240402.jpg
               year: _2024
