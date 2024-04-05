@@ -44,6 +44,11 @@ h3 {
   margin: 15px 15px 15px 15px;
 }
 
+.gallery-img-wrap {
+  float: left;
+  margin: 15px 15px 15px 15px;
+}
+
 
 .position {
   clear: left;
@@ -81,6 +86,18 @@ body {
 }
 
 .wrap-project-img{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 25%;
+  min-width: 220px;
+  @media (min-width: 600px) {
+    max-width: 160px;
+  }
+}
+
+.wrap-gallery-img{
   position: relative;
   min-height: 1px;
   padding-right: 15px;
