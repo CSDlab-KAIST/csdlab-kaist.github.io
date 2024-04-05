@@ -18,7 +18,7 @@
 
 ## --------------Group Photo---------------------------
 
-        - photoYear: _2024
-          img: lab_240402.jpg
+        - img: lab_240402.jpg
+          year: 2024
           month: April
           content: 2024_spring, group photo with professor
