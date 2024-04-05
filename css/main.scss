@@ -46,7 +46,7 @@ h3 {
 
 .gallery-img-wrap {
   float: center;
-  margin: 15px 15px 15px 15px;
+  margin: 50px 50px 50px 50px;
 }
 .gallery-year-section {
   text-align: center;
@@ -116,6 +116,16 @@ body {
   @media (min-width: 600px) {
     max-width: 160px;
   }
+}
+
+.wrap-gallery-content{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 30px;
+  float: center;
+  width: 75%	
 }
 
 .wrap-text, .wrap-text-alumni{
