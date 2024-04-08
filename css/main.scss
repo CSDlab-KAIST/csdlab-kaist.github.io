@@ -19,21 +19,6 @@ h3 {
   }
 }
 
-.container {
-    width: 200px;
-    height: 200px;
-    background-color: #0a0a23;
-    position: relative;
-}
-
-.container img {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
 .namecard img {
   width: 170px;
 }
@@ -63,6 +48,15 @@ h3 {
   float: center;
   margin: 50px 50px 50px 50px;
 }
+
+.gallery-img-wrap img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 .gallery-year-section {
   text-align: center;
   margin-bottom: 40px;
