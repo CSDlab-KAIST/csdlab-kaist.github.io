@@ -50,11 +50,9 @@ h3 {
 }
 
 .gallery-img-wrap img {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    width: 600px;
+    margin: auto;
+    display: block;
 }
 
 .gallery-year-section {
