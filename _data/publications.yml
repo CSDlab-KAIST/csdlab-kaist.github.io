@@ -2332,3 +2332,18 @@ papers:
         url:
     award: ""
     link: ""
+
+  - title: "Systematic review on healthcare systems engineering utilizing ChatGPT"
+    author: "Kim, J., Lee, J.-S., Kim, H., and Lee, T."
+    venue: "arXiv"
+    month: May
+    year: 2024
+    yearS: 2024.0521
+    location: 
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
