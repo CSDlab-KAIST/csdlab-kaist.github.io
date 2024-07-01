@@ -5,6 +5,22 @@
 - stateObj:
     statename: Project lists
     topics:  
+
+      # - name: Optimization for human-autonomous agent collaboration decision making
+      #   img:
+      #   project:
+      #   duration: 
+      #   from:
+      #   introduction: In hybrid environments involving both manned and unmanned systems, complex design problems arise, such as determining the optimal functional and quantitative composition of autonomous agents and human agents to maximize overall system effectiveness. 
+      #   Additionally, designing the optimal policies for human agents in engagement scenarios dominated by autonomous agents presents significant challenges.
+      #   To address these complexities, our research aims to develop optimized decision-making techniques for human-autonomous agent collaboration by leveraging bi-level optimization and multi-agent reinforcement learning with hypernetwork structuring.
+      #   (Partially Controlled Multi-Agent Systems) Hybrid systems offer advantages over fully autonomous systems by integrating the flexibility and adaptability of human agent decision-making. 
+      #   Autonomous decision-making agents, equipped with policies learned through reinforcement learning, interact with human agents in a dynamic system environment. 
+      #   From the perspective of human agents, autonomous agents represent part of the system environment, and vice versa.
+      #   Through these interactions, human agents can more efficiently guide the decision-making of autonomous agents towards system-wide optimal outcomes. 
+      #   This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
+
+        
       - name: Development of Unmanned aerial vehicle Traffic Management system
         img: UTM.png
         project: UTM
@@ -40,15 +56,15 @@
          It also provides a basis for establishing and enforcing public health policies.
          In this study, our laboratory has proposed the efficient placement of medical institutionssupported in medically underserved areas and the analysis of the potential demand forecasting at the location of medical institutions supported in medically underserved areas.
 
-      - name: Modeling and Simulation of Disaster Response System
-        img: DRMS2.png
-        project: Research and development of modeling and simulating the rescues, the transfer, and the treatment of disaster victims
-        duration: May, 2013 ~ April, 2015
-        from: National Research Foundation of Korea
-        introduction: This research focuses on developing a simulation modeling framework that can replicate response processes of disaster response systems.
-         The disaster response model aims at modeling practical aspects of disaster response systems and is based on its functionalities of response systems including emergency medical service, transportation, distribution of supplies, information and context awareness.
-         Specifically, we study the EMS system’s response to a disaster event to improve decision making in disaster response system.
-         We collaborate with EMS practitioners and NEMA to implement into their future response system.
+      # - name: Modeling and Simulation of Disaster Response System
+      #   img: DRMS2.png
+      #   project: Research and development of modeling and simulating the rescues, the transfer, and the treatment of disaster victims
+      #   duration: May, 2013 ~ April, 2015
+      #   from: National Research Foundation of Korea
+      #   introduction: This research focuses on developing a simulation modeling framework that can replicate response processes of disaster response systems.
+      #    The disaster response model aims at modeling practical aspects of disaster response systems and is based on its functionalities of response systems including emergency medical service, transportation, distribution of supplies, information and context awareness.
+      #    Specifically, we study the EMS system’s response to a disaster event to improve decision making in disaster response system.
+      #    We collaborate with EMS practitioners and NEMA to implement into their future response system.
 
 
       - name: Developing Pandemic Response System
