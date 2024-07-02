@@ -12,11 +12,11 @@
         duration: July, 2024 ~ 
         from: National Research Foundation of Korea
         introduction: In the Korean healthcare system, patients have a high level of autonomy in choosing hospitals, which can lead to system-level inefficiencies and potentially inappropriate usage based on subjective perceptions. 
-        Understanding these choices comprehensively is essential. While advanced machine learning models excel at prediction, this study focuses on explaining patient choices using the Discrete Choice Model (DCM), which is ideal for interpreting the impact of various choice factors based on human decision-making theories. 
-        This study aims to extend and tailor the DCM structure in two directions and develop estimation algorithms for each. Heterogeneity in decision-making, influenced by socio-demographic backgrounds and personal experiences, significantly impacts hospital choices. 
-        Given the limitations of existing models, this research will develop a Latent Multi-class Choice Model (LMCM) to incorporate detailed and comprehensive heterogeneity.
-        For numerous choices like hospital selection, modeling choices as subsets (nests) rather than individual options is effective. 
-        The Nested Logit Model, validated in international hospital choice studies, helps address utility maximization and independence of irrelevant alternatives (IIA) assumptions. Additionally, it enables the derivation of a classification structure of healthcare institutions from the consumer's perspective by estimating the nest structure based on choice data.
+         Understanding these choices comprehensively is essential. While advanced machine learning models excel at prediction, this study focuses on explaining patient choices using the Discrete Choice Model (DCM), which is ideal for interpreting the impact of various choice factors based on human decision-making theories. 
+         This study aims to extend and tailor the DCM structure in two directions and develop estimation algorithms for each. Heterogeneity in decision-making, influenced by socio-demographic backgrounds and personal experiences, significantly impacts hospital choices. 
+         Given the limitations of existing models, this research will develop a Latent Multi-class Choice Model (LMCM) to incorporate detailed and comprehensive heterogeneity.
+         For numerous choices like hospital selection, modeling choices as subsets (nests) rather than individual options is effective. 
+         The Nested Logit Model, validated in international hospital choice studies, helps address utility maximization and independence of irrelevant alternatives (IIA) assumptions. Additionally, it enables the derivation of a classification structure of healthcare institutions from the consumer's perspective by estimating the nest structure based on choice data.
 
       - name: Hospital payment system design
         img: Pay.png
@@ -24,9 +24,9 @@
         duration: July, 2024 ~ 
         from: National Research Foundation of Korea
         introduction: Our research aims to develop a game theory-based mathematical model to represent patient concentration at large hospitals in Seoul. The model will capture the dynamics of increased local competition driving inter-regional competition and patient influx. Additionally, it will incorporate the relationship between treatment volume and healthcare quality, reflecting the impact of treatment volume on outcomes.
-        Using mathematical optimization and game theory, we will derive Nash equilibria to explore the effects and mechanisms of various policies based on these equilibria. This includes analyzing the impact of current policy discussions, such as penalties for using hospitals in other regions, direct investment in local hospitals, and increased medical fees for local hospitals. 
-        We will also propose new policies, such as expanding and strengthening pay-for-performance systems and providing operational support for local hospital expansions.
-        Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
+         Using mathematical optimization and game theory, we will derive Nash equilibria to explore the effects and mechanisms of various policies based on these equilibria. This includes analyzing the impact of current policy discussions, such as penalties for using hospitals in other regions, direct investment in local hospitals, and increased medical fees for local hospitals. 
+         We will also propose new policies, such as expanding and strengthening pay-for-performance systems and providing operational support for local hospital expansions.
+         Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
 
       - name: Optimization for human-autonomous agent collaboration decision making
         img: ITRC.png
@@ -34,13 +34,13 @@
         duration: July, 2024 ~ 
         from: ITRC
         introduction: In hybrid environments involving both manned and unmanned systems, complex design problems arise, such as determining the optimal functional and quantitative composition of autonomous agents and human agents to maximize overall system effectiveness. 
-        Additionally, designing the optimal policies for human agents in engagement scenarios dominated by autonomous agents presents significant challenges.
-        To address these complexities, our research aims to develop optimized decision-making techniques for human-autonomous agent collaboration by leveraging bi-level optimization and multi-agent reinforcement learning with hypernetwork structuring.
-        (Partially Controlled Multi-Agent Systems) Hybrid systems offer advantages over fully autonomous systems by integrating the flexibility and adaptability of human agent decision-making. 
-        Autonomous decision-making agents, equipped with policies learned through reinforcement learning, interact with human agents in a dynamic system environment. 
-        From the perspective of human agents, autonomous agents represent part of the system environment, and vice versa.
-        Through these interactions, human agents can more efficiently guide the decision-making of autonomous agents towards system-wide optimal outcomes. 
-        This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
+         Additionally, designing the optimal policies for human agents in engagement scenarios dominated by autonomous agents presents significant challenges.
+         To address these complexities, our research aims to develop optimized decision-making techniques for human-autonomous agent collaboration by leveraging bi-level optimization and multi-agent reinforcement learning with hypernetwork structuring.
+         (Partially Controlled Multi-Agent Systems) Hybrid systems offer advantages over fully autonomous systems by integrating the flexibility and adaptability of human agent decision-making. 
+         Autonomous decision-making agents, equipped with policies learned through reinforcement learning, interact with human agents in a dynamic system environment. 
+         From the perspective of human agents, autonomous agents represent part of the system environment, and vice versa.
+         Through these interactions, human agents can more efficiently guide the decision-making of autonomous agents towards system-wide optimal outcomes. 
+         This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
         
       - name: Districting hospital service area
         img: HSA.png
@@ -48,7 +48,7 @@
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
         introduction: This study aims to redefine secondary medical service areas (SMSAs) in Korea to ensure equitable and effective healthcare distribution. Using the Relevance Index (RI) and Commitment Index (CI), the study evaluates and merges areas based on current healthcare utilization patterns. The need for this revision arises from significant changes in healthcare demands and population dynamics over the past decade, necessitating updates to the existing SMSA framework.
-        By employing a hierarchical clustering approach and considering criteria like minimum population, self-sufficiency rates, and geographical proximity, the study proposes a revised framework of 60 SMSAs. This new framework, based on recent data and accounting for the impact of COVID-19, aims to better reflect actual service usage and ensure efficient healthcare delivery across Korea.
+         By employing a hierarchical clustering approach and considering criteria like minimum population, self-sufficiency rates, and geographical proximity, the study proposes a revised framework of 60 SMSAs. This new framework, based on recent data and accounting for the impact of COVID-19, aims to better reflect actual service usage and ensure efficient healthcare delivery across Korea.
 
       - name: Analysis on patient share network
         img: Network.png
@@ -56,8 +56,8 @@
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
         introduction: Healthcare system in Korea lacks an explicit referral and transfer system between hospitals. One of recently discussed development directions is the establishment of a network-based cooperation system among healthcare institutions. This study proposes an analytical framework that extracts sequential medical usage events from NHIS claim data to construct a patient sharing network between healthcare institutions. 
-        Through community detection within this network, we identify hospital clusters with high levels of cooperation and observe their geographical relationships and compositions to analyze the relationships between institutions based on function and location. 
-        This analysis will serve as foundational knowledge for developing a Korean hospital network system and function as an analytical tool to evaluate the results of policy and intervention implementations.
+         Through community detection within this network, we identify hospital clusters with high levels of cooperation and observe their geographical relationships and compositions to analyze the relationships between institutions based on function and location. 
+         This analysis will serve as foundational knowledge for developing a Korean hospital network system and function as an analytical tool to evaluate the results of policy and intervention implementations.
 
       - name: Hospital enhancement optimization
         img: Enhance.png
@@ -65,7 +65,7 @@
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
         introduction: This study addresses the necessity of redefining the healthcare supply structure in the Gwangju and Jeonnam regions. The analysis reveals that tertiary and secondary hospitals are under-supplied relative to demand, while regional and specialized hospitals are oversupplied. This imbalance results in patients frequently utilizing lower-tier hospitals than necessary, negatively impacting healthcare quality and outcomes.
-        To address this, the study employs a mathematical optimization model to identify the optimal enhancement of existing hospitals' functions rather than establishing new ones. By strengthening secondary and regional hospitals, the healthcare delivery system can better meet demand and improve patient outcomes, ensuring higher quality care for all patients in the region.
+         To address this, the study employs a mathematical optimization model to identify the optimal enhancement of existing hospitals' functions rather than establishing new ones. By strengthening secondary and regional hospitals, the healthcare delivery system can better meet demand and improve patient outcomes, ensuring higher quality care for all patients in the region.
 
 
         
