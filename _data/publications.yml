@@ -2347,3 +2347,63 @@ papers:
         url: 
     award: ""
     link: "https://arxiv.org/abs/2405.11817"
+
+  - title: "Unveiling True Patient Demand: A Novel Approach Using Modified Kaplan-Meier Estimator"
+    author: "Yadav, A., Kim, J., and Lee, T."
+    venue: "2024 KIIE Annual Spring Conference"
+    month: May 03
+    year: 2024
+    yearS: 2024.0503
+    location: Yeosu, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Analysis Framework for deriving patient sharing communities in hospital networks"
+    author: "Im, J., Kim, J., and Lee, T."
+    venue: "2024 KIIE Annual Spring Conference"
+    month: May 03
+    year: 2024
+    yearS: 2024.0503
+    location: Yeosu, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "개인의 사회적 거리두기 정책 순응 결정을 고려한 전염병 전파 모형"
+    author: "Shin, H., and Lee, T."
+    venue: "2024 KIIE Annual Spring Conference"
+    month: May 03
+    year: 2024
+    yearS: 2024.0503
+    location: Yeosu, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "의료이용 데이터를 활용한 의료기관 기능 강화 최적화 모형"
+    author: "Choi, Y., Lee, J., and Lee, T."
+    venue: "2024 KIIE Annual Spring Conference"
+    month: May 03
+    year: 2024
+    yearS: 2024.0503
+    location: Yeosu, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
