@@ -113,13 +113,13 @@ body {
 
 .wrap-project-img{
   position: relative;
-  min-height: 100px;
+  min-height: 10px;
   padding-right: 15px;
   padding-left: 15px;
   width: 25%;
-  min-width: 100px;
-  @media (min-width: 600px) {
-    max-width: 200px;
+  min-width: 50px;
+  @media (min-width: 50px) {
+    max-width: 100px;
   }
 }
 
