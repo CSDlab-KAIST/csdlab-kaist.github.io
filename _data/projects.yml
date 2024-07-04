@@ -18,7 +18,7 @@
          For numerous choices like hospital selection, modeling choices as subsets (nests) rather than individual options is effective. 
          The Nested Logit Model, validated in international hospital choice studies, helps address utility maximization and independence of irrelevant alternatives (IIA) assumptions. Additionally, it enables the derivation of a classification structure of healthcare institutions from the consumer's perspective by estimating the nest structure based on choice data.
 
-      - name: Hospital payment system design
+      - name: Healthcare Payment System Optimization
         img: Pay.png
         project: NRF
         duration: July, 2024 ~ 
@@ -28,7 +28,7 @@
          We will also propose new policies, such as expanding and strengthening pay-for-performance systems and providing operational support for local hospital expansions.
          Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
 
-      - name: Optimization for human-autonomous agent collaboration decision making
+      - name: Optimization for Human-Autonomous Agent Collaboration Decision Making
         img: ITRC.png
         project: ITRC
         duration: July, 2024 ~ 
@@ -42,7 +42,7 @@
          Through these interactions, human agents can more efficiently guide the decision-making of autonomous agents towards system-wide optimal outcomes. 
          This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
         
-      - name: Districting hospital service area
+      - name: Hospital Service Area Distriction Technique
         img: HSA.png
         project: NMC
         duration: July, 2023 ~ December, 2023
@@ -50,7 +50,7 @@
         introduction: This study aims to redefine secondary medical service areas (SMSAs) in Korea to ensure equitable and effective healthcare distribution. Using the Relevance Index (RI) and Commitment Index (CI), the study evaluates and merges areas based on current healthcare utilization patterns. The need for this revision arises from significant changes in healthcare demands and population dynamics over the past decade, necessitating updates to the existing SMSA framework.
          By employing a hierarchical clustering approach and considering criteria like minimum population, self-sufficiency rates, and geographical proximity, the study proposes a revised framework of 60 SMSAs. This new framework, based on recent data and accounting for the impact of COVID-19, aims to better reflect actual service usage and ensure efficient healthcare delivery across Korea.
 
-      - name: Analysis on patient share network
+      - name: Analysis Framework for Patient Sharing Network
         img: Network.png
         project: NMC
         duration: July, 2023 ~ December, 2023
@@ -59,7 +59,7 @@
          Through community detection within this network, we identify hospital clusters with high levels of cooperation and observe their geographical relationships and compositions to analyze the relationships between institutions based on function and location. 
          This analysis will serve as foundational knowledge for developing a Korean hospital network system and function as an analytical tool to evaluate the results of policy and intervention implementations.
 
-      - name: Hospital enhancement optimization
+      - name: Optimization of Healthcare Facility Enhancement Decisions
         img: Enhance.png
         project: NMC
         duration: July, 2023 ~ December, 2023
