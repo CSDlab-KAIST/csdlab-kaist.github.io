@@ -312,7 +312,14 @@
 
         - positionName: Alumni-Ph.D.
           positionMembers:
-
+            - name: Hyelim Shin
+              email:
+              career: Ph.D., 2024
+              thesis: Optimal epidemic control incorporating the effect of individual policy compliance decision on the spread of disease
+              currentOccupation: Samsung Advanced Institute of Technology
+              img:
+              leavingDate: 2024.08
+            
             - name: Soonyong Bae
               email:
               career: Ph.D., 2011
