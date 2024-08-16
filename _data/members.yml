@@ -35,17 +35,17 @@
         - positionName: Ph.D. Students
           positionMembers:
 
-            - name: Hyelim Shin
-              email: hyelim.shin@kaist.ac.kr
-              img: Hyelim_230329.jpeg
-              career:
-               - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
-               - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.
-               - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
-              interest: System design, Optimization
-              pageurl: /people/hyelim
-              cv:
-              entered: 2018.03
+            # - name: Hyelim Shin
+            #   email: hyelim.shin@kaist.ac.kr
+            #   img: Hyelim_230329.jpeg
+            #   career:
+            #    - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
+            #    - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.
+            #    - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+            #   interest: System design, Optimization
+            #   pageurl: /people/hyelim
+            #   cv:
+            #   entered: 2018.03
 
             - name: Kyeonghyeon Park
               email: kyeonghyeon.park@kaist.ac.kr
@@ -311,15 +311,7 @@
 ## --------------Alumni---------------------------
 
         - positionName: Alumni-Ph.D.
-          positionMembers:
-            - name: Hyelim Shin
-              email:
-              career: Ph.D., 2024
-              thesis: Optimal epidemic control incorporating the effect of individual policy compliance decision on the spread of disease
-              currentOccupation: Samsung Advanced Institute of Technology
-              img:
-              leavingDate: 2024.08
-            
+          positionMembers: 
             - name: Soonyong Bae
               email:
               career: Ph.D., 2011
@@ -399,6 +391,15 @@
               currentOccupation: Post-doc., KAIST
               img: hyunjin2-2.jpg
               leavingDate: 2020.08
+              
+            - name: Hyelim Shin
+              email:
+              career: Ph.D., 2024
+              thesis: Optimal epidemic control incorporating the effect of individual policy compliance decision on the spread of disease
+              currentOccupation: Samsung Advanced Institute of Technology
+              img:
+              leavingDate: 2024.08
+           
 
 ## --------------Alumni---------------------------
 
