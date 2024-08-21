@@ -49,10 +49,8 @@
         project: NMC
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
-        introduction: Healthcare system in Korea lacks an explicit referral and transfer system between hospitals. One of recently discussed development directions is the establishment of a network-based cooperation system among healthcare institutions. This study proposes an analytical framework that extracts sequential medical usage events from NHIS claim data to construct a patient sharing network between healthcare institutions. 
-         Through community detection within this network, we identify hospital clusters with high levels of cooperation and observe their geographical relationships and compositions to analyze the relationships between institutions based on function and location. 
-         This analysis will serve as foundational knowledge for developing a Korean hospital network system and function as an analytical tool to evaluate the results of policy and intervention implementations.
-
+        introduction: Healthcare system in Korea lacks an explicit patient referral and transfer procedure, highlighting the need for an establishment of a network-based cooperation system between healthcare institutions. This study proposes an analytical framework that extracts sequential medical usage events from NHIS claims data to construct a patient sharing network of healthcare institutions. By applying community detection algorithms to this network, we identify hospital clusters with high levels of cooperation and observe their geographical relationships and compositions. Ultimately, we analyze the relationships between institutions based on function and location, which serves as foundational knowledge for developing a hospital network system and an analytical tool to evaluate the results of policies and interventions.
+        
       - name: Optimization of Hospital Enhancement Decisions
         img: project_6_Optimization of Hospital Enhancement Decisions.png
         project: NMC
