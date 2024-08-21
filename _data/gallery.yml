@@ -23,6 +23,8 @@
           date: 2024.06.29.
           month: June
           content: 2024_summer, we went to Jangtae Mountain for membership training
+          width : 1200
+          height : 900
 
           
         - img: lab_240402_1.jpeg
@@ -30,6 +32,8 @@
           date: 2024.04.02.
           month: April
           content: 2024_spring, group photo with professor
+          width : 1200
+          height : 800
 
 
         - img: lab_230328_1.jpeg
@@ -37,15 +41,21 @@
           date: 2023.03.28.
           month: March
           content: 2023_spring, group photo with professor
+          width : 1200
+          height : 800
 
         - img: lab_220401_1.jpeg
           year: 2022
           date: 2022.04.01.
           month: April
           content: 2022_spring, group photo with professor
+          width : 1200
+          height : 800
 
         - img: lab_200925_1.jpeg
           year: 2020
           date: 2020.09.25.
           month: September
           content: 2020_fall, group photo with professor
+          width : 1200
+          height : 800
