@@ -10,7 +10,8 @@
                     {% if photo.year == year %}
                         <div class='wrap-gallery-img'>
                             <div class='gallery-img-wrap'>
-                                <img src="{{'/assets/img/gallery/' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}" width="{{photo.width}}" height="{{photo.height}}"/>
+                                <!-- <img src="{{'/assets/img/gallery/' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}" width="{{photo.width}}" height="{{photo.height}}"/> -->       
+                                <img src="{{'/assets/img/gallery/' | prepend: site.baseurl }}{{photo.img}}" alt="{{photo.content}}"/>
                             </div>
                         </div>
 <!--  If you want to add some information about photos -->       
