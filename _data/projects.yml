@@ -19,7 +19,7 @@
          The Nested Logit Model, validated in international hospital choice studies, helps address utility maximization and independence of irrelevant alternatives (IIA) assumptions. Additionally, it enables the derivation of a classification structure of healthcare institutions from the consumer's perspective by estimating the nest structure based on choice data.
 
       - name: Healthcare Payment System Optimization
-        img: Pay.png
+        img: project_2_Healthcare Payment System Optimization.png
         project: NRF
         duration: July, 2024 ~ 
         from: National Research Foundation of Korea
