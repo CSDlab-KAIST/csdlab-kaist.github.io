@@ -37,14 +37,13 @@
          Through these interactions, human agents can more efficiently guide the decision-making of autonomous agents towards system-wide optimal outcomes. 
          This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
         
-      - name: Hospital Service Area Distriction Technique
+      - name: Delineation of Healthcare Service Area
         img: project_4_Hospital Service Area Distriction Technique.png
         project: NMC
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
-        introduction: This study aims to redefine secondary medical service areas (SMSAs) in Korea to ensure equitable and effective healthcare distribution. Using the Relevance Index (RI) and Commitment Index (CI), the study evaluates and merges areas based on current healthcare utilization patterns. The need for this revision arises from significant changes in healthcare demands and population dynamics over the past decade, necessitating updates to the existing SMSA framework.
-         By employing a hierarchical clustering approach and considering criteria like minimum population, self-sufficiency rates, and geographical proximity, the study proposes a revised framework of 60 SMSAs. This new framework, based on recent data and accounting for the impact of COVID-19, aims to better reflect actual service usage and ensure efficient healthcare delivery across Korea.
-
+        introduction: This study aims to redefine Healthcare service areas for secondary and tertiary care in Korea to ensure equitable and effective healthcare distribution. Using the Relevance Index (RI) and Commitment Index (CI), the study evaluates and merges areas based on current medical utilization patterns. The need for this revision arises from significant changes in healthcare demands and demographic changes over the past decade, necessitating updates to the existing healthcare service areas. By modifying the Dartmouth Atlas delineation method and considering criteria like minimum population, self-sufficiency rates, and geographical proximity, the study proposes a revised framework of 60 healthcare service areas for secondary care. This new framework, based on recent data and accounting for the impact of COVID-19, aims to better reflect actual service usage and ensure efficient healthcare delivery across Korea.
+        
       - name: Analysis Framework for Patient Sharing Network
         img: project_5_Analysis Framework for Patient Sharing Network.png
         project: NMC
