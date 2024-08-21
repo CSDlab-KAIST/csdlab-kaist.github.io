@@ -29,7 +29,7 @@
          Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
 
       - name: Optimization for Human-Autonomous Agent Collaboration Decision Making
-        img: ITRC.png
+        img: project_3_Optimization for Human-Autonomous Agent Collaboration Decision Making.png
         project: ITRC
         duration: July, 2024 ~ 
         from: ITRC
@@ -43,7 +43,7 @@
          This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
         
       - name: Hospital Service Area Distriction Technique
-        img: HSA.png
+        img: project_4_Hospital Service Area Distriction Technique.png
         project: NMC
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
@@ -51,7 +51,7 @@
          By employing a hierarchical clustering approach and considering criteria like minimum population, self-sufficiency rates, and geographical proximity, the study proposes a revised framework of 60 SMSAs. This new framework, based on recent data and accounting for the impact of COVID-19, aims to better reflect actual service usage and ensure efficient healthcare delivery across Korea.
 
       - name: Analysis Framework for Patient Sharing Network
-        img: Network.png
+        img: project_5_Analysis Framework for Patient Sharing Network.png
         project: NMC
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
@@ -59,8 +59,8 @@
          Through community detection within this network, we identify hospital clusters with high levels of cooperation and observe their geographical relationships and compositions to analyze the relationships between institutions based on function and location. 
          This analysis will serve as foundational knowledge for developing a Korean hospital network system and function as an analytical tool to evaluate the results of policy and intervention implementations.
 
-      - name: Optimization of Healthcare Facility Enhancement Decisions
-        img: Enhance.png
+      - name: Optimization of Hospital Enhancement Decisions
+        img: project_6_Optimization of Hospital Enhancement Decisions.png
         project: NMC
         duration: July, 2023 ~ December, 2023
         from: National Medical Center
