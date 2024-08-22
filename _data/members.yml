@@ -250,18 +250,18 @@
 
 ## --------------Undergraduate Students------------------
 
-        - positionName: Undergraduate Researcher 
-          positionMembers:
+        # - positionName: Undergraduate Researcher 
+        #   positionMembers:
           
-          - name: Seungwoo Choi
-            email: seungwoo_choi@kaist.ac.kr
-            img: seungwoo_1.jpeg
-            career:
-            - 2021.9 ~ KAIST Dept. of Industrial & Systems Engineering, M.S.
-            interest: Healthcare Inequality, Mathematical Optimization
-            pageurl: /people/seungwoo
-            cv:
-            entered: 2023.06
+        #   - name: Seungwoo Choi
+        #     email: seungwoo_choi@kaist.ac.kr
+        #     img: seungwoo_1.jpeg
+        #     career:
+        #     - 2021.9 ~ KAIST Dept. of Industrial & Systems Engineering, M.S.
+        #     interest: Healthcare Inequality, Mathematical Optimization
+        #     pageurl: /people/seungwoo
+        #     cv:
+        #     entered: 2023.06
 ## --------------Postdoctoral Researchers---------------------------
 
         # - positionName: Postdoc. Researchers
