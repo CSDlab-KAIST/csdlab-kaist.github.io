@@ -248,6 +248,18 @@
               cv:
               entered: 2024.02
 
+            - name: Jihwan Bae
+              email: liam22@kaist.ac.kr
+              img: jihwan.jpeg
+              career:
+               - 2024.8 Korea University, Industrial and Management Engineering,  B.S.
+               - 2024.8 Korea University, Artificial Intelligence,  B.E.
+               - 2024.8 ~ KAIST, Graduate school of Data Science, M.S. Program
+              interest: Decision Science, Data Analytics
+              pageurl: /people/jihwan
+              cv:
+              entered: 2024.08
+
 ## --------------Undergraduate Students------------------
 
         # - positionName: Undergraduate Researcher 
