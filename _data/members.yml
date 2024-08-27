@@ -260,6 +260,17 @@
               cv:
               entered: 2024.08
 
+            - name: Haoyuan Cui
+              email: howon@kaist.ac.kr
+              img: howon.jpeg
+              career:
+               - 2023.7 Tongji University, Transportation Engineering,  B.E.
+               - 2024.8 ~ KAIST, Department of Industrial & Systems Engineering, M.S. Candidate
+              interest: Multi-agent reinforcement learning, Optimization
+              pageurl: /people/howon
+              cv:
+              entered: 2024.08
+
 ## --------------Undergraduate Students------------------
 
         # - positionName: Undergraduate Researcher 
