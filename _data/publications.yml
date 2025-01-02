@@ -2407,9 +2407,39 @@ papers:
         url:
     award: ""
     link: ""
+        
+  - title: "Hypernetwork-based approach for optimal composition design in partially controlled multi-agent systems"
+    author: "Park, K., Molina Concha, D., Lee, H., Lee, C., and Lee, T."
+    venue: "INFORMS Annual Meeting 2024"
+    month: October 22
+    year: 2024
+    yearS: 2024.1022
+    location: Seattle, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
     
   - title: "An Extended Latent Class Choice Model for Characterizing Context-driven hospital choice"
     author: "Kim, J., and Lee, T."
+    venue: "INFORMS Annual Meeting 2024"
+    month: October 23
+    year: 2024
+    yearS: 2024.1023
+    location: Seattle, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "A Game Theoretic Approach to Efficient and Equitable Healthcare Quality Improvement Policies for Regional Disparity"
+    author: "Lee, J., Hwang, W., and Lee, T."
     venue: "INFORMS Annual Meeting 2024"
     month: October 23
     year: 2024
