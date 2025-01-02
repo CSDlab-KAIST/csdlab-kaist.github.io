@@ -2407,3 +2407,78 @@ papers:
         url:
     award: ""
     link: ""
+    
+  - title: "An Extended Latent Class Choice Model for Characterizing Context-driven hospital choice"
+    author: "Kim, J., and Lee, T."
+    venue: "INFORMS Annual Meeting 2024"
+    month: October 23
+    year: 2024
+    yearS: 2024.1023
+    location: Seattle, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Optimization for Delineating Healthcare Service Areas Integrating Geographical Contiguity and Soft Constraints"
+    author: "Kim, H. and Lee, T."
+    venue: "Korea Society of Preventive Medicine Fall Conference"
+    month: October 24
+    year: 2024
+    yearS: 2024.1024
+    location: Busan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Korea’s Healthcare Service Areas: A Review of Delineation Methods and Proposal for an Adjustment Framework"
+    author: "Kim, H., Lee, J. S. and Lee, T."
+    venue: "Korea Society of Preventive Medicine Fall Conference"
+    month: October 24
+    year: 2024
+    yearS: 2024.1024
+    location: Busan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
+  - title: "Ammunition Distribution Planning in Lanchester type Multi-unit Combat"
+    author: "Choi, Y., Kim, J., and Lee, T."
+    venue: "2024 KIIE Annual Fall Conference"
+    month: October 25
+    year: 2024
+    yearS: 2024.1025
+    location: Seoul, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+        
+  - title: "Catchment area, Accessibility and Outcome: Case of Acute Myocardial Infarction in Korea"
+    author: "Ahn, J., Lee, J., and Lee, T."
+    venue: "2024 KORMS Annual Fall Conference"
+    month: November 08
+    year: 2024
+    yearS: 2024.1108
+    location: Goyang, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
