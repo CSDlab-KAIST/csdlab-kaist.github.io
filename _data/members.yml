@@ -271,27 +271,27 @@
               cv:
               entered: 2024.08
 
-            - name: RyangHa Kim
-              email: ryangk2025@kaist.ac.kr
-              img: Ryangha_1.jpeg
-              career:
-               - 2025.2 Pusan National University, School of Biomedical Convergence Engineering, B.S.
-               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
-              interest: Healthcare data science, Data analytics
-              pageurl: /people/ryangha
-              cv:
-              entered: 2025.02
+            # - name: RyangHa Kim
+            #   email: ryangk2025@kaist.ac.kr
+            #   img: Ryangha_1.jpeg
+            #   career:
+            #    - 2025.2 Pusan National University, School of Biomedical Convergence Engineering, B.S.
+            #    - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
+            #   interest: Healthcare data science, Data analytics
+            #   pageurl: /people/ryangha
+            #   cv:
+            #   entered: 2025.02
 
-            - name: Minyoung Kim
-              email: mk5718@kaist.ac.kr
-              img: Minyoung_1.jpeg
-              career:
-               - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
-               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
-              interest: Data Science, Applied Statistics
-              pageurl: /people/minyoung
-              cv:
-              entered: 2025.02
+            # - name: Minyoung Kim
+            #   email: mk5718@kaist.ac.kr
+            #   img: Minyoung_1.jpeg
+            #   career:
+            #    - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
+            #    - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
+            #   interest: Data Science, Applied Statistics
+            #   pageurl: /people/minyoung
+            #   cv:
+            #   entered: 2025.02
 
 ## --------------Undergraduate Students------------------
 
