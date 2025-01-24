@@ -35,18 +35,6 @@
         - positionName: Ph.D. Students
           positionMembers:
 
-            # - name: Hyelim Shin
-            #   email: hyelim.shin@kaist.ac.kr
-            #   img: Hyelim_230329.jpeg
-            #   career:
-            #    - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
-            #    - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.
-            #    - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
-            #   interest: System design, Optimization
-            #   pageurl: /people/hyelim
-            #   cv:
-            #   entered: 2018.03
-
             - name: Kyeonghyeon Park
               email: kyeonghyeon.park@kaist.ac.kr
               img: kyeonghyeon.jpg
@@ -96,101 +84,7 @@
               pageurl: /people/jisu
               cv:
               entered: 2022.03
-## --------------MS Students------------------
 
-        - positionName: M.S. Students
-          positionMembers:
-
-  #          - name: Tooba Binte Asif
-  #            email: toobaasif@kaist.ac.kr
-  #            img: tooba-2.jpg
-  #            career:
-  #             - 2018.12 University of the Punjab, Pakistan Dept. of Industrial Engineering & Management, B.S.
-  #             - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-  #            interest: System design, Healthcare service system
-  #            pageurl: /people/tooba
-  #            cv:
-  #            entered: 2019.03
-
-  #          - name: Huijae Kim
-  #            email: heejae6021@kaist.ac.kr
-  #            img: huijae.jpg
-  #            career:
-  #             - 2019.2 Sungkyunkwan University Dept. of Statistics, B.S.
-  #             - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-  #            interest: Healthcare service system design, Data analytics, Optimization
-  #            pageurl: /people/huijae
-  #            cv:
-  #            entered: 2019.03
-
-  #          - name: Yoorim Song
-  #            email: yoorim.song@kaist.ac.kr
-  #            img: yoorim.jpg
-  #            career:
-  #             - 2019.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
-  #             - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-  #            interest: Optimization, Complex system design, Reinforcement learning
-  #            pageurl: /people/yoorim
-  #            cv:
-  #            entered: 2019.03
-
-            # - name: Hyewon Park
-            #   email: hyewon0901@kaist.ac.kr
-            #   img: hyewon-1.jpg
-            #   career:
-            #    - 2020.2 KAIST Dept. of Materials Science & Engineering, B.S.
-            #    - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-            #   interest: Data science, Epidemic simulation, Healthcare system
-            #   pageurl: /people/hyewon
-            #   cv:
-            #   entered: 2020.03
-
-            # - name: Yuna Kim
-            #   email: garpkbr@kaist.ac.kr
-            #   img: yuna.jpg
-            #   career:
-            #    - 2019.2 DGIST School of Undergraduate Studies, B.S.
-            #    - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-            #   interest: Stochastic and statistic systems, Data science, Optimization
-            #   pageurl: /people/yuna
-            #   cv:
-            #   entered: 2020.03
-
-            # - name: Junyoung Jung
-            #   email: wwd2000@kaist.ac.kr
-            #   img: junyoung.jpg
-            #   career:
-            #    - 2020.8 KAIST Dept. of Industrial & Systems Engineering, B.S.
-            #    - 2020.9 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-            #   interest: Data science, Healthcare service system
-            #   pageurl: /people/junyoung
-            #   cv:
-            #   entered: 2020.09
-
-            # - name: Jeong Yeo
-            #   email: faiiry9@kaist.ac.kr
-            #   img: jeong_230329.jpeg
-            #   career:
-            #    - 2022.2 UNIST Dept. of Human Factor Engineering, B.S.
-            #    - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
-            #   interest: Data science, Data analysis, Knowledge Graph for Finance
-            #   pageurl: /people/jeong
-            #   cv:
-            #   entered: 2022.03
-          
-            - name: Yong Hoon Choi
-              email: choeyhun@kaist.ac.kr
-              # img: yonghoon_2.jpeg
-              img: 최용훈.jpeg
-              career:
-               - 2018.2 Korea Military Academy (KMA), Operations Research, B.S.
-               - 2023.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-              interest: Optimization, Military Operational Research
-
-              pageurl: /people/yonghoon
-              cv:
-              entered: 2023.03
-              
             - name: Joon Im
               email: joonim14@kaist.ac.kr
               img: 임준석.jpeg
@@ -202,7 +96,12 @@
               pageurl: /people/joonseok
               cv:
               entered: 2023.03
-            
+              
+## --------------MS Students------------------
+
+        - positionName: M.S. Students
+          positionMembers:
+              
             - name: Anurag Yadav
               email: anusim2003@kaist.ac.kr
               img: anurag-2.jpeg
@@ -271,27 +170,27 @@
               cv:
               entered: 2024.08
 
-            # - name: RyangHa Kim
-            #   email: ryangk2025@kaist.ac.kr
-            #   img: Ryangha_1.jpeg
-            #   career:
-            #    - 2025.2 Pusan National University, School of Biomedical Convergence Engineering, B.S.
-            #    - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
-            #   interest: Healthcare data science, Data analytics
-            #   pageurl: /people/ryangha
-            #   cv:
-            #   entered: 2025.02
+            - name: RyangHa Kim
+              email: ryangk2025@kaist.ac.kr
+              img: Ryangha_1.jpeg
+              career:
+               - 2025.2 Pusan National University, School of Biomedical Convergence Engineering, B.S.
+               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
+              interest: Healthcare data science, Data analytics
+              pageurl: /people/ryangha
+              cv:
+              entered: 2025.02
 
-            # - name: Minyoung Kim
-            #   email: mk5718@kaist.ac.kr
-            #   img: Minyoung_1.jpeg
-            #   career:
-            #    - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
-            #    - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
-            #   interest: Data Science, Applied Statistics
-            #   pageurl: /people/minyoung
-            #   cv:
-            #   entered: 2025.02
+            - name: Minyoung Kim
+              email: mk5718@kaist.ac.kr
+              img: Minyoung_1.jpeg
+              career:
+               - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
+               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
+              interest: Data Science, Applied Statistics
+              pageurl: /people/minyoung
+              cv:
+              entered: 2025.02
 
 ## --------------Undergraduate Students------------------
 
@@ -620,3 +519,11 @@
               currentOccupation: 
               img: jeong_230329.jpeg
               leavingDate: 2024.02
+
+            - name: Yong Hoon Choi
+              email: 
+              career: M.S., 2025
+              thesis: "A Study on Combat-Effect-Oriented Resource Allocation Under Limeted Logistical Capabilities"
+              currentOccupation: 
+              img: yonghoon_2.jpeg
+              leavingDate: 2025.02
