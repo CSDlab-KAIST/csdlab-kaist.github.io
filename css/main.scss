@@ -57,6 +57,7 @@ h3 {
   margin: 50px 50px 50px 50px;
 }
 
+////////////////////test1
 // .gallery-img-wrap img {
 //     width: 800px;
 //     margin: auto;
@@ -70,7 +71,7 @@ h3 {
     margin: auto;
     display: block;
 }
-////////////////////test
+////////////////////test1
 
 .gallery-year-section {
   text-align: center;
@@ -139,30 +140,53 @@ body {
     max-width: 1500px;
   }
 }
+////////////////////test2
+// .wrap-gallery-img{
+//   position: relative;
+//   min-height: 1px;
+//   padding-right: 15px;
+//   padding-left: 15px;
+//   width: 50%;
+//   min-width: 100px;
+//   margin: 0 auto 20px;
+//   @media (min-width: 600px) {
+//     max-width: 3000px;
+//   }
+// }
 
-.wrap-gallery-img{
+// .wrap-gallery-content{
+//   position: relative;
+//   min-height: 1px;
+//   padding-right: 15px;
+//   padding-left: 15px;
+//   margin-bottom: 30px;
+//   float: center;
+//   width: 75%	
+// }
+.wrap-gallery-img {
   position: relative;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-  width: 50%;
-  min-width: 100px;
-  margin: 0 auto 20px;
-  @media (min-width: 600px) {
-    max-width: 3000px;
-  }
+  width: 100%;           // ✅ 화면 전체 너비 사용
+  max-width: 800px;      // ✅ 큰 화면에선 제한
+  margin: 0 auto 20px;   // ✅ 중앙 정렬
 }
 
-.wrap-gallery-content{
+.wrap-gallery-content {
   position: relative;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
   margin-bottom: 30px;
-  float: center;
-  width: 75%	
+  float: none;           // ✅ float 제거
+  width: 100%;           // ✅ 전체 너비 사용
+  max-width: 1000px;     // ✅ 필요 시 제한
+  margin: 0 auto;        // ✅ 중앙 정렬
 }
 
+
+////////////////////test2
 .wrap-text, .wrap-text-alumni{
   position: relative;
   min-height: 1px;
