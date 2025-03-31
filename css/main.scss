@@ -57,11 +57,20 @@ h3 {
   margin: 50px 50px 50px 50px;
 }
 
+// .gallery-img-wrap img {
+//     width: 800px;
+//     margin: auto;
+//     display: block;
+// }
+
 .gallery-img-wrap img {
-    width: 800px;
+    width: 100%;
+    height: auto;
+    max-width: 800px;
     margin: auto;
     display: block;
 }
+////////////////////test
 
 .gallery-year-section {
   text-align: center;
