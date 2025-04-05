@@ -18,13 +18,29 @@
 
 ## --------------Group Photo---------------------------
 
-        - img: MT_240629.jpeg
-          year: 2024
-          date: 2024.06.29.
-          month: June
-          content: 2024_summer, we went to Jangtae Mountain for membership training
+        - img: lab_250404_2.jpeg
+          year: 2025
+          date: 2025.04.24.
+          month: May
+          content: 2025_spring, group photo with professor
           width : 1200
           height : 900
+
+        - img: lab_250404_cb.jpeg
+          year: 2025
+          date: 2025.04.24.
+          month: May
+          content: 2025_spring, group photo with professor
+          width : 1200
+          height : 900
+          
+        # - img: MT_240629.jpeg
+        #   year: 2024
+        #   date: 2024.06.29.
+        #   month: June
+        #   content: 2024_summer, we went to Jangtae Mountain for membership training
+        #   width : 1200
+        #   height : 900
 
           
         - img: lab_240402_1.jpeg
@@ -35,6 +51,13 @@
           width : 1200
           height : 800
 
+        - img: lab_230328_2.jpeg
+          year: 2023
+          date: 2023.03.28.
+          month: March
+          content: 2023_spring, group photo with professor
+          width : 1200
+          height : 800
 
         - img: lab_230328_1.jpeg
           year: 2023
@@ -43,6 +66,14 @@
           content: 2023_spring, group photo with professor
           width : 1200
           height : 800
+
+        - img: lab_220401.jpeg
+          year: 2022
+          date: 2022.04.01.
+          month: April
+          content: 
+          width : 1200
+          height : 900
 
         - img: lab_220401_1.jpeg
           year: 2022
