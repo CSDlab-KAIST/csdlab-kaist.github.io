@@ -2512,3 +2512,33 @@ papers:
         url:
     award: ""
     link: ""
+    
+  - title: "Multi-objective Optimization Algorithm for Delineating Healthcare Service Areas Based on NSGA-II"
+    author: "Kim, H. and Lee, T."
+    venue: "2025 KIIE Annual Spring Conference"
+    month: June 18
+    year: 2025
+    yearS: 2025.0618
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Gatekeeper’s Competition and Optimal Payment Scheme in Healthcare"
+    author: "Lee, J., Hwang W. and Lee T."
+    venue: "2025 KIIE Annual Spring Conference"
+    month: June 18
+    year: 2025
+    yearS: 2025.0618
+    location: Jeju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
