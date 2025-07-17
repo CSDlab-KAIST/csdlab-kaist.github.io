@@ -101,18 +101,6 @@
 
         - positionName: M.S. Students
           positionMembers:
-              
-            - name: Anurag Yadav
-              email: anusim2003@kaist.ac.kr
-              img: anurag-2.jpeg
-              career:
-               - 2023.6 Lady Shri Ram College for Women, Department of Statistics, B.S.
-               - 2023.8 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
-              interest: Operations Research, Data Science
-
-              pageurl: /people/anurag
-              cv:
-              entered: 2023.09
 
             - name: Joongchan Ahn
               email: jchan.ahn@kaist.ac.kr
@@ -527,3 +515,15 @@
               currentOccupation: 
               img: yonghoon_2.jpeg
               leavingDate: 2025.02
+
+            - name: Anurag Yadav
+              email: anusim2003@kaist.ac.kr
+              career: M.S., 2025
+              thesis: "Unveiling True Patient Demand: A Novel Approach Using Modified Kaplan-Meier Estimator"
+              currentOccupation:
+              img: anurag-2.jpeg
+              leavingDate: 2025.08
+
+              pageurl: /people/anurag
+              cv:
+              entered: 2023.09
