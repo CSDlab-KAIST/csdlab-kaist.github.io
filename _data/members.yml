@@ -34,19 +34,6 @@
 
         - positionName: Ph.D. Students
           positionMembers:
-
-            - name: Kyeonghyeon Park
-              email: kyeonghyeon.park@kaist.ac.kr
-              img: kyeonghyeon.jpg
-              # img: kyeonghyeon_king.jpeg
-              career:
-               - 2018.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
-               - 2020.2 KAIST Dept. of Industrial & Systems Engineering, M.S.              
-               - 2020.8 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
-              interest: System design framework for multi-agent systems, Multi-agent reinforcement learning, Non-cooperative multi-agent systems, Partially controlled multi-agent systems
-              pageurl: /people/kyeonghyeon
-              cv:
-              entered: 2018.0301
               
             - name: Huijae Kim
               email: huijae.kim@kaist.ac.kr
@@ -328,9 +315,17 @@
               email:
               career: Ph.D., 2024
               thesis: Optimal epidemic control incorporating the effect of individual policy compliance decision on the spread of disease
-              currentOccupation: Samsung Advanced Institute of Technology
+              currentOccupation: Pusan ​​National University
               img:
               leavingDate: 2024.08
+
+            - name: Kyeonghyeon Park
+              email:
+              career: Ph.D., 2025
+              thesis: System design framework for non-cooperative multi-agent systems
+              currentOccupation: Post-doc., University of Toronto
+              img:
+              leavingDate: 2025.08
            
 
 ## --------------Alumni---------------------------
