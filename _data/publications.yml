@@ -2542,3 +2542,19 @@ papers:
         url:
     award: ""
     link: ""
+
+
+  - title: "Reward function design method to achieve system-level objectives in ambulance diversion problem"
+    author: "Lee, H-R., and Lee, T."
+    venue: "European Journal of Operational Research"
+    month: September
+    year: 2024
+    yearS: 2024.0916
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://doi.org/10.1016/j.ejor.2024.04.033"
