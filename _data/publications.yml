@@ -2558,3 +2558,36 @@ papers:
         url:
     award: ""
     link: "https://doi.org/10.1016/j.ejor.2024.04.033"
+
+
+  - title: "Reward design in multi-agent systems using successor features and multi-information source bayesian optimization"
+    author: "Park, K., Molina Concha, D., Lee, H-R., Lee, T., Lee, C-G."
+    venue: "International Journal of Machine Learning and Cybernetics"
+    month: April
+    year: 2025
+    yearS: 2025.0418
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://doi.org/10.1007/s13042-025-02622-z"
+
+
+  - title: "Effectiveness of social distancing under partial compliance of individuals"
+    author: "Shin, H., Lee, T."
+    venue: "European Journal of Operational Research"
+    month: May
+    year: 2025
+    yearS: 2025.0501
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://doi.org/10.1016/j.ejor.2024.11.006"
+    
