@@ -2590,4 +2590,65 @@ papers:
         url:
     award: ""
     link: "https://doi.org/10.1016/j.ejor.2024.11.006"
+
+
+  - title: "부분 제어 가능한 다중 에이전트 시스템에서의 동적 제어 그룹 및 정책 설계 연구"
+    author: "Son, J., Park, K., and Lee, T."
+    venue: "2025 KIIE Annual Fall Conference"
+    month: November 06
+    year: 2025
+    yearS: 2025.1106
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+    
+  - title: "거리-진료량 균형 기반 뇌졸증 진료체계 최적화 연구"
+    author: "Ahn, J., Lee, J., and Lee, T."
+    venue: "2025 KIIE Annual Fall Conference"
+    month: November 06
+    year: 2025
+    yearS: 2025.1106
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Disentangling Experience and Attribute Effects in State Dependence Hospital Choice Model"
+    author: "Bae, J., Kim, J., and Lee, T."
+    venue: "2025 KIIE Annual Fall Conference"
+    month: November 07
+    year: 2025
+    yearS: 2025.1107
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Emulating Pandemic-X Scenarios: A Semi-Mechanistic Framework with Bayesian Filtering"
+    author: "Kim, M., Kim, J., Bae, J., and Lee, T."
+    venue: "2025 KIIE Annual Fall Conference"
+    month: November 07
+    year: 2025
+    yearS: 2025.1107
+    location: Daejeon, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
     
