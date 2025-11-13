@@ -2575,7 +2575,6 @@ papers:
     award: ""
     link: "https://doi.org/10.1007/s13042-025-02622-z"
 
-
   - title: "Effectiveness of social distancing under partial compliance of individuals"
     author: "Shin, H., Lee, T."
     venue: "European Journal of Operational Research"
@@ -2590,6 +2589,51 @@ papers:
         url:
     award: ""
     link: "https://doi.org/10.1016/j.ejor.2024.11.006"
+
+  - title: "Gatekeeper’s Competition and Optimal Payment Scheme in Healthcare"
+    author: "Lee, J., Hwang, W., and Lee, T."
+    venue: "2025 INFORMS Annual Meeting"
+    month: October 27
+    year: 2025
+    yearS: 2025.1027
+    location: Atlanta, GA, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Multi-Objective Evolutionary Optimization for Healthcare Districting: A Customized NSGA-II Approach"
+    author: "Kim, H. and Lee, T."
+    venue: "2025 INFORMS Annual Meeting"
+    month: October 28
+    year: 2025
+    yearS: 2025.1028
+    location: Atlanta, GA, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Combinatorial Latent Class Choice Model for Capturing Multidimensional Preference Heterogeneity"
+    author: "Kim, J., and Lee, T."
+    venue: "2025 INFORMS Annual Meeting"
+    month: October 28
+    year: 2025
+    yearS: 2025.1028
+    location: Atlanta, GA, USA
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
 
 
   - title: "Dynamic control group and policy design in partially controllable multi-agent systems"
