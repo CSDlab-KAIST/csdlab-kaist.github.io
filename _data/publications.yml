@@ -2590,6 +2590,21 @@ papers:
     award: ""
     link: "https://doi.org/10.1016/j.ejor.2024.11.006"
 
+  - title: "Agent-Based Model of Quality–Perception Dynamics in Healthcare System: Does Providing Quality Information Mitigate or Intensify Patient Concentration?"
+    author: "Kim, J., Lee, M., Lee, J., Do, Y., and Lee, T."
+    venue: "2025 Korean Society for Preventive Medicine Annual Fall Conference"
+    month: October 24
+    year: 2025
+    yearS: 2025.1024
+    location: Busan, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
   - title: "Gatekeeper’s Competition and Optimal Payment Scheme in Healthcare"
     author: "Lee, J., Hwang, W., and Lee, T."
     venue: "2025 INFORMS Annual Meeting"
