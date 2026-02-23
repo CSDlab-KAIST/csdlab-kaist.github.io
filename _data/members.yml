@@ -77,39 +77,41 @@
               img: joon.jpg
               career:
                - 2022.9 The University of Auckland, Department of Engineering Science, B.S.
-               - 2023.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+               - 2025.2 KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+               - 2025.2 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
               interest: Operations Research, Data Science
 
               pageurl: /people/joonseok
               cv:
               entered: 2023.03
-              
-## --------------MS Students------------------
-
-        - positionName: M.S. Students
-          positionMembers:
-
-            - name: Joongchan Ahn
-              email: jchan.ahn@kaist.ac.kr
-              img: joongchan_1.jpeg
-              career:
-               - 2024.2 Hanyang University, Department of Industrial Engineering, B.S.
-               - 2024.2 ~  KAIST, Department of Industrial & Systems Engineering, M.S. Program
-              interest: Operations Research, Applied Statistics
-              pageurl: /people/joongchan
-              cv:
-              entered: 2024.02
 
             - name: Jeongmin Son
               email: jmson@kaist.ac.kr
               img: jeongmin_2.jpeg
               career:
                - 2024.2 Pusan National University, Department of Industrial Engineering, B.S.
-               - 2024.2 ~  KAIST, Department of Industrial & Systems Engineering, M.S. Program
+               - 2026.2 KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+               - 2026.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
               interest: Optimization, Reinforcement learning, AI-enabled decision-making
               pageurl: /people/jeongmin
               cv:
               entered: 2024.02
+
+            - name: Minyoung Kim
+              email: mk5718@kaist.ac.kr
+              img: minyoung_2.jpeg
+              career:
+               - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
+               - 2025.2 ~  KAIST, Graduate school of Data Science, M.S.-Ph.D. Integrated Program
+              interest: Mathematical Modeling, Computational Statistics
+              pageurl: /people/minyoung
+              cv:
+              entered: 2025.02
+              
+## --------------MS Students------------------
+
+        - positionName: M.S. Students
+          positionMembers:
 
             - name: Eunbi Na
               email: eunbina@kaist.ac.kr
@@ -136,7 +138,7 @@
 
             - name: Haoyuan Cui
               email: howon@kaist.ac.kr
-              img: howon.jpeg
+              img: howon.jpg
               career:
                - 2023.7 Tongji University, Transportation Engineering,  B.E.
                - 2024.8 ~ KAIST, Department of Industrial & Systems Engineering, M.S. Candidate
@@ -156,16 +158,7 @@
               cv:
               entered: 2025.02
 
-            - name: Minyoung Kim
-              email: mk5718@kaist.ac.kr
-              img: minyoung_2.jpeg
-              career:
-               - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
-               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
-              interest: Mathematical Modeling, Computational Statistics
-              pageurl: /people/minyoung
-              cv:
-              entered: 2025.02
+
 
 ## --------------Undergraduate Students------------------
 
@@ -332,8 +325,6 @@
 
         - positionName: Alumni-M.S.
           positionMembers:
-
-
 
             - name: Heoksung Lee
               email:
@@ -519,6 +510,17 @@
               img: anurag-2.jpeg
               leavingDate: 2025.08
 
-              pageurl: /people/anurag
-              cv:
-              entered: 2023.09
+            - name: Joongchan Ahn
+              career: M.S., 2026
+              thesis: "Balancing Distance and Volume for Optimizing Emergency Medical Systems"
+              currentOccupation:
+              img: joongchan_1.jpeg
+              leavingDate: 2026.02
+
+            - name: Jeongmin Son
+              career: M.S., 2026
+              thesis: "Dynamic Control Group Selection and Policy Design in Partially Controllable Multi-Agent Systems"
+              currentOccupation:
+              img:
+              leavingDate: 2026.02
+              
