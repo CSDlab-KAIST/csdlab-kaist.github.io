@@ -158,6 +158,16 @@
               cv:
               entered: 2025.02
 
+            - name: Yeowon Yun
+              email: 
+              img: yeowon.jpeg
+              career:
+               - 2026.3 ~ KAIST, Graduate school of Data Science, M.S. Program
+              interest:
+              pageurl: /people/yeowon
+              cv:
+              entered: 2026.03
+
 
 
 ## --------------Undergraduate Students------------------
