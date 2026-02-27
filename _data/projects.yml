@@ -24,7 +24,7 @@
          Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
 
       - name: Strategic Decision-Making Through Partial Control in Multi-Agent Systems
-        img: project_3_Optimization for Human-Autonomous Agent Collaboration Decision Making.png
+        img: project-partial_control.png
         project: ITRC
         duration: July, 2024 ~ 
         from: ITRC
