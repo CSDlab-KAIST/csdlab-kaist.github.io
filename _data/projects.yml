@@ -23,19 +23,12 @@
          We will also propose new policies, such as expanding and strengthening pay-for-performance systems and providing operational support for local hospital expansions.
          Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
 
-      - name: Optimization for Human-Autonomous Agent Collaboration Decision Making
+      - name: Strategic Decision-Making Through Partial Control in Multi-Agent Systems
         img: project_3_Optimization for Human-Autonomous Agent Collaboration Decision Making.png
         project: ITRC
         duration: July, 2024 ~ 
         from: ITRC
-        introduction: In hybrid environments involving both manned and unmanned systems, complex design problems arise, such as determining the optimal functional and quantitative composition of autonomous agents and human agents to maximize overall system effectiveness. 
-         Additionally, designing the optimal policies for human agents in engagement scenarios dominated by autonomous agents presents significant challenges.
-         To address these complexities, our research aims to develop optimized decision-making techniques for human-autonomous agent collaboration by leveraging bi-level optimization and multi-agent reinforcement learning with hypernetwork structuring.
-         (Partially Controlled Multi-Agent Systems) Hybrid systems offer advantages over fully autonomous systems by integrating the flexibility and adaptability of human agent decision-making. 
-         Autonomous decision-making agents, equipped with policies learned through reinforcement learning, interact with human agents in a dynamic system environment. 
-         From the perspective of human agents, autonomous agents represent part of the system environment, and vice versa.
-         Through these interactions, human agents can more efficiently guide the decision-making of autonomous agents towards system-wide optimal outcomes. 
-         This requires optimizing the functional and quantitative composition of agents in the hybrid environment and calculating the optimal policies for both human and autonomous agents to achieve the best system configuration.
+        introduction: In real-world multi-agent systems, practical limitations in control resources such as intervention cost, communication bandwidth, and computational capacity make it infeasible to directly control all agents. To address these challenges, our research focuses on Partially Controllable Multi-Agent Systems (PCMAS), where only a subset of agents can be directly controlled by a system designer. We investigate how to dynamically select an appropriate control subset and design coordinated policies that maximize system-wide performance in time-varying environments. To solve this problem, we develop an encoder-decoder-based deep reinforcement learning framework. In the encoder, a self-attention mechanism is employed to capture complex inter-agent interactions and extract each agent’s strategic importance. In the decoder, a hierarchical decision-making structure is adopted to determine the control group and the coordinated actions for the selected group. Through strategically optimized partial intervention, this research aims to reconcile centralized optimality with decentralized scalability, enabling efficient system-wide coordination under realistic constraints.
         
       - name: Delineation of Healthcare Service Area
         img: project_4_Hospital Service Area Distriction Technique.png
