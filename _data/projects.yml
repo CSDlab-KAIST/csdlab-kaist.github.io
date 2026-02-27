@@ -6,6 +6,13 @@
     statename: Project lists
     topics:  
 
+      - name: Strategic Decision-Making Through Partial Control in Multi-Agent Systems
+        img: project-partial_control.png
+        project: ITRC
+        duration: July, 2024 ~ 
+        from: ITRC
+        introduction: In real-world multi-agent systems, practical limitations in control resources such as intervention cost, communication bandwidth, and computational capacity make it infeasible to directly control all agents. To address these challenges, our research focuses on Partially Controllable Multi-Agent Systems (PCMAS), where only a subset of agents can be directly controlled by a system designer. We investigate how to dynamically select an appropriate control subset and design coordinated policies that maximize system-wide performance in time-varying environments. To solve this problem, we develop an encoder-decoder-based deep reinforcement learning framework. In the encoder, a self-attention mechanism is employed to capture complex inter-agent interactions and extract each agent’s strategic importance. In the decoder, a hierarchical decision-making structure is adopted to determine the control group and the coordinated actions for the selected group. Through strategically optimized partial intervention, this research aims to reconcile centralized optimality with decentralized scalability, enabling efficient system-wide coordination under realistic constraints.
+        
       - name: Advanced Discrete Choice Model for Hospital Preference Analysis
         img: project_1_Advanced Discrete Choice Model for Hospital Preference Analysis.png
         project: NRF
@@ -23,13 +30,6 @@
          We will also propose new policies, such as expanding and strengthening pay-for-performance systems and providing operational support for local hospital expansions.
          Furthermore, the model will be extended to account for patients' risk-averse behavior by modifying their utility functions from risk-neutral to risk-averse, observing the changes in optimal government policies. This comprehensive approach aims to identify effective strategies to mitigate patient concentration at major hospitals and improve the overall healthcare system.
 
-      - name: Strategic Decision-Making Through Partial Control in Multi-Agent Systems
-        img: project-partial_control.png
-        project: ITRC
-        duration: July, 2024 ~ 
-        from: ITRC
-        introduction: In real-world multi-agent systems, practical limitations in control resources such as intervention cost, communication bandwidth, and computational capacity make it infeasible to directly control all agents. To address these challenges, our research focuses on Partially Controllable Multi-Agent Systems (PCMAS), where only a subset of agents can be directly controlled by a system designer. We investigate how to dynamically select an appropriate control subset and design coordinated policies that maximize system-wide performance in time-varying environments. To solve this problem, we develop an encoder-decoder-based deep reinforcement learning framework. In the encoder, a self-attention mechanism is employed to capture complex inter-agent interactions and extract each agent’s strategic importance. In the decoder, a hierarchical decision-making structure is adopted to determine the control group and the coordinated actions for the selected group. Through strategically optimized partial intervention, this research aims to reconcile centralized optimality with decentralized scalability, enabling efficient system-wide coordination under realistic constraints.
-        
       - name: Delineation of Healthcare Service Area
         img: project_4_Hospital Service Area Distriction Technique.png
         project: NMC
