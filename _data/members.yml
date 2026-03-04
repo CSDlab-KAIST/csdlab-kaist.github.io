@@ -26,7 +26,7 @@
                 - 1997.2 Seoul National University Mechanical Engineering, B.S.
                 - 1999.6 MIT Mechanical Engineering M.S.
                 - 2003.6 MIT Mechanical Engineering Ph.D.
-              interest: Healthcare analytics, Disaster response system, Modeling & simulation of large-scale systems, Systems engineering, Decision making under uncertainty
+              interest: Healthcare Analytics, Disaster Response System, Modeling & Simulation of Large-scale Systems, Systems Engineering, Decision Making under Uncertainty
               pageurl: /people/Professor
               cv: CV2019_TaesikLee_patentNoUpdated.pdf
 
@@ -39,10 +39,10 @@
               email: huijae.kim@kaist.ac.kr
               img: huijae-4.jpg
               career:
-               - 2019.2 Sungkyunkwan University Dept. of Statistics, B.S.
+               - 2019.2 Sungkyunkwan University, Dept. of Statistics, B.S.
                - 2021.2 KAIST Dept. of Industrial & Systems Engineering, M.S.    
                - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
-              interest: Healthcare service system design, Data analytics, Optimization
+              interest: Healthcare Service System Design, Data Analytics, Optimization
               pageurl: /people/huijae
               cv:
               entered: 2019.03
@@ -51,8 +51,8 @@
               email: jungwoo415@kaist.ac.kr
               img: Jungwoo_2.jpg
               career:
-               - 2021.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
-               - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S.-Ph.D. Integrated Program
+               - 2021.2 KAIST, Dept. of Industrial & Systems Engineering, B.S.
+               - 2021.3 ~  KAIST, Dept. of Industrial & Systems Engineering, M.S.-Ph.D. Integrated Program
               interest: Discrete Choice Model, Epidemics, Applied Statistics, Agent-based Simulation, Healthcare Systems
               pageurl: /people/jungwoo
               cv:
@@ -65,9 +65,9 @@
                - 2014.2 Kyung Hee University, College of Korean Medicine, K.M.D.
                - 2018.2 Seoul National University, School of Medicine, M.D.
                - 2018.3 ~ 2019.2 Seoul National University Hospital, Intern
-               - 2019.3 ~ 2022.2 Seoul National University College of Medicine, Department of Health Policy and Management, Resident
+               - 2019.3 ~ 2022.2 Seoul National University College of Medicine, Dept. of Health Policy and Management, Resident
                - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, Ph.D. Program
-              interest: Healthcare delivery and payment system optimization, Distributive justice in healthcare
+              interest: Healthcare Delivery and Payment System Optimization, Distributive Justice in Healthcare
               pageurl: /people/jisu
               cv:
               entered: 2022.03
@@ -76,9 +76,9 @@
               email: joonim14@kaist.ac.kr
               img: joon.jpg
               career:
-               - 2022.9 The University of Auckland, Department of Engineering Science, B.S.
-               - 2025.2 KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-               - 2025.2 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+               - 2022.9 The University of Auckland, Dept. of Engineering Science, B.S.
+               - 2025.2 KAIST, Dept. of Industrial & Systems Engineering, M.S. Program
+               - 2025.2 ~ KAIST, Dept. of Industrial & Systems Engineering, Ph.D. Program
               interest: Operations Research, Data Science
 
               pageurl: /people/joonseok
@@ -89,10 +89,10 @@
               email: jmson@kaist.ac.kr
               img: jeongmin_2.jpeg
               career:
-               - 2024.2 Pusan National University, Department of Industrial Engineering, B.S.
-               - 2026.2 KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-               - 2026.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
-              interest: Optimization, Reinforcement learning, AI-enabled decision-making
+               - 2024.2 Pusan National University, Dept. of Industrial Engineering, B.S.
+               - 2026.2 KAIST, Dept. of Industrial & Systems Engineering, M.S. Program
+               - 2026.3 ~  KAIST, Dept. of Industrial & Systems Engineering, Ph.D. Program
+              interest: Optimization, Reinforcement Learning, AI-enabled Decision-making
               pageurl: /people/jeongmin
               cv:
               entered: 2024.02
@@ -101,7 +101,7 @@
               email: mk5718@kaist.ac.kr
               img: minyoung_2.jpg
               career:
-               - 2022.7 Imperial College London, Department of Mathematics, Integrated Master's (MSci)
+               - 2022.7 Imperial College London, Dept. of Mathematics, Integrated Master's (MSci)
                - 2025.2 ~  KAIST, Graduate school of Data Science, M.S.-Ph.D. Integrated Program
               interest: Mathematical Modelling, Computational Statistics
               pageurl: /people/minyoung
@@ -118,7 +118,7 @@
               img: eunbi1.jpg
               career:
                - 2024.2 Korea University, Division of Health Policy and Management(1st Major), Department of Statistics(Duplicate Major),  B.A.
-               - 2024.2 ~ KAIST, Graduate school of Data Science, M.S. Program
+               - 2024.2 ~ KAIST, Graduate School of Data Science, M.S. Program
               interest: Data Science, Data Analytics
               pageurl: /people/eunbi
               cv:
@@ -141,8 +141,8 @@
               img: howon.jpg
               career:
                - 2023.7 Tongji University, Transportation Engineering,  B.E.
-               - 2024.8 ~ KAIST, Department of Industrial & Systems Engineering, M.S. Candidate
-              interest: Multi-agent reinforcement learning, Optimization
+               - 2024.8 ~ KAIST, Dept. of Industrial & Systems Engineering, M.S. Candidate
+              interest: Multi-agent Reinforcement Learning, Optimization
               pageurl: /people/howon
               cv:
               entered: 2024.08
@@ -152,18 +152,19 @@
               img: Ryangha_1.jpeg
               career:
                - 2025.2 Pusan National University, School of Biomedical Convergence Engineering, B.S.
-               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S. Program
-              interest: Healthcare data science, Data analytics
+               - 2025.2 ~ KAIST, Graduate School of Data Science, M.S. Program
+              interest: Healthcare Data Science, Data Analytics
               pageurl: /people/ryangha
               cv:
               entered: 2025.02
 
             - name: Yeowon Yun
-              email: 
+              email: yeowon@kaist.ac.kr
               img: yeowon.jpg
               career:
+               - 2026.2 Sungkyunkwan University, Dept. of Statistics, B.S.
                - 2026.3 ~ KAIST, Graduate school of Data Science, M.S. Program
-              interest:
+              interest: Data Science, Applied Statistics
               pageurl: /people/yeowon
               cv:
               entered: 2026.03
