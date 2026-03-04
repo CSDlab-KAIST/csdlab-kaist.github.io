@@ -43,11 +43,13 @@
                     <img src="/assets/img/members/people_family.jpg" alt="Lab members" width="300px"/>
                     <!-- <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="Lab members"/> -->
                 {% else %}
+                    {% if member.img %}
                     <div class='wrap-img'>
                         <div class='person-img-wrap'>
                             <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
                         </div>
                     </div>
+                    {% endif %}
                 {% endif %}
 
                 <!-- <div class='wrap-img'>
