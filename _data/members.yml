@@ -172,18 +172,35 @@
 
 ## --------------Undergraduate Students------------------
 
-        # - positionName: Undergraduate Researcher 
-        #   positionMembers:
+        - positionName: Undergraduate Researcher 
+          positionMembers:
           
-        #   - name: Seungwoo Choi
-        #     email: seungwoo_choi@kaist.ac.kr
-        #     img: seungwoo_1.jpeg
-        #     career:
-        #     - 2021.9 ~ KAIST Dept. of Industrial & Systems Engineering, M.S.
-        #     interest: Healthcare Inequality, Mathematical Optimization
-        #     pageurl: /people/seungwoo
-        #     cv:
-        #     entered: 2023.06
+          - name: Seonghun Hong
+            email: hshoon@kaist.ac.kr
+            img:
+            career:
+            interest: Healthcare Service System Design, Operations Research
+            pageurl:
+            cv:
+            entered: 2026.03
+
+          - name: JeongYeon Choi
+            email: angels0501@kaist.ac.kr
+            img:
+            career:
+            interest: Optimization, Data Science
+            pageurl:
+            cv:
+            entered: 2026.03
+
+          - name: Joonhyuk Bahk
+            email: joonhyukbahk@kaist.ac.kr
+            img:
+            career:
+            interest: Discrete Choice Model, Agent-Based Simulation, Healthcare Systems
+            pageurl:
+            cv:
+            entered: 2026.03
 ## --------------Postdoctoral Researchers---------------------------
 
         # - positionName: Postdoc. Researchers
