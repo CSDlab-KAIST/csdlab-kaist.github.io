@@ -2710,4 +2710,48 @@ papers:
         url:
     award: ""
     link: ""
-    
+
+  - title: "데이터 기반 지역보건의료 인프라 배치 최적화 모형 개발"
+    author: "Kim, R., Im, J., Lee, J., and Lee, T."
+    venue: "2026 KIIE Annual Spring Conference"
+    month: June 05
+    year: 2026
+    yearS: 2026.0605
+    location: Gyeongju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "의료이용경험 지표의 구조화와 병원선택 선호 이질성 분석"
+    author: "Bae, J., Kim, J., and Lee, T."
+    venue: "2026 KIIE Annual Spring Conference"
+    month: June 05
+    year: 2026
+    yearS: 2026.0605
+    location: Gyeongju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
+
+  - title: "Learning Coordinated Policies for Multi-Agent Navigation in Mixed-Motive Environments, Cui, H. and Lee, T.,"
+    author: "Cui, H., and Lee, T."
+    venue: "2026 KIIE Annual Spring Conference"
+    month: June 05
+    year: 2026
+    yearS: 2026.0605
+    location: Gyeongju, Korea
+    topics:
+    type: conference-presentations
+    materials:
+      - label:
+        url:
+    award: ""
+    link: ""
