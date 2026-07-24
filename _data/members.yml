@@ -41,7 +41,7 @@
               career:
                - 2019.2 Sungkyunkwan University, Dept. of Statistics, B.S.
                - 2021.2 KAIST Dept. of Industrial & Systems Engineering, M.S.    
-               - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+               - 2021.3 ~ KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
               interest: Healthcare Service System Design, Data Analytics, Optimization
               pageurl: /people/huijae
               cv:
@@ -52,7 +52,7 @@
               img: Jungwoo_2.jpg
               career:
                - 2021.2 KAIST, Dept. of Industrial & Systems Engineering, B.S.
-               - 2021.3 ~  KAIST, Dept. of Industrial & Systems Engineering, M.S.-Ph.D. Integrated Program
+               - 2021.3 ~ KAIST, Dept. of Industrial & Systems Engineering, M.S.-Ph.D. Integrated Program
               interest: Discrete Choice Model, Epidemics, Applied Statistics, Agent-based Simulation, Healthcare Systems
               pageurl: /people/jungwoo
               cv:
@@ -77,7 +77,7 @@
               career:
                - 2024.2 Pusan National University, Dept. of Industrial Engineering, B.S.
                - 2026.2 KAIST, Dept. of Industrial & Systems Engineering, M.S. Program
-               - 2026.3 ~  KAIST, Dept. of Industrial & Systems Engineering, Ph.D. Program
+               - 2026.3 ~ KAIST, Dept. of Industrial & Systems Engineering, Ph.D. Program
               interest: Optimization, Reinforcement Learning, AI-enabled Decision-making
               pageurl: /people/jeongmin
               cv:
@@ -88,7 +88,7 @@
               img: minyoung_2.jpg
               career:
                - 2022.7 Imperial College London, Dept. of Mathematics, Integrated Master's (MSci)
-               - 2025.2 ~  KAIST, Graduate school of Data Science, M.S.-Ph.D. Integrated Program
+               - 2025.2 ~ KAIST, Graduate school of Data Science, M.S.-Ph.D. Integrated Program
               interest: Mathematical Modelling, Computational Statistics
               pageurl: /people/minyoung
               cv:
@@ -121,6 +121,25 @@
               cv:
               entered: 2026.03
 
+            - name: JeongYeon Choi
+              email: angels0501@kaist.ac.kr
+              img:
+              career:
+              interest: Optimization, Data Science
+              pageurl:
+              cv:
+              entered: 2026.08
+              
+            - name: Seonghun Hong
+              email: hshoon@kaist.ac.kr
+              img:
+              career:
+              interest: Healthcare Service System Design, Operations Research
+              pageurl:
+              cv:
+              entered: 2026.08
+
+          
 
 
 ## --------------Undergraduate Students------------------
@@ -128,32 +147,7 @@
         - positionName: Undergraduate Researcher 
           positionMembers:
           
-          - name: Seonghun Hong
-            email: hshoon@kaist.ac.kr
-            img:
-            career:
-            interest: Healthcare Service System Design, Operations Research
-            pageurl:
-            cv:
-            entered: 2026.03
 
-          - name: JeongYeon Choi
-            email: angels0501@kaist.ac.kr
-            img:
-            career:
-            interest: Optimization, Data Science
-            pageurl:
-            cv:
-            entered: 2026.03
-
-          - name: Joonhyuk Bahk
-            email: joonhyukbahk@kaist.ac.kr
-            img:
-            career:
-            interest: Discrete Choice Model, Agent-Based Simulation, Healthcare Systems
-            pageurl:
-            cv:
-            entered: 2026.03
 ## --------------Postdoctoral Researchers---------------------------
 
         # - positionName: Postdoc. Researchers
