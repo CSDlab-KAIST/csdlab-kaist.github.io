@@ -2711,6 +2711,21 @@ papers:
     award: ""
     link: ""
 
+  - title: "Agent-based Model of Dynamics between Objective and Perceived Quality of Healthcare System"
+    author: "Kim J., Lee M., Lee J., Do Y., and Lee T."
+    venue: "2025 Winter Simulation Conference"
+    month: December 09
+    year: 2025
+    yearS: 2025.1209
+    location: Seattle, WA, USA
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://ieeexplore.ieee.org/document/11339019"
+
   - title: "데이터 기반 지역보건의료 인프라 배치 최적화 모형 개발"
     author: "Kim, R., Im, J., Lee, J., and Lee, T."
     venue: "2026 KIIE Annual Spring Conference"
@@ -2785,3 +2800,4 @@ papers:
         url:
     award: ""
     link: ""
+
