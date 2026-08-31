@@ -123,10 +123,10 @@
               
             - name: Seonghun Hong
               email: hshoon@kaist.ac.kr
-              img:
+              img: seonghun.jpg
               career:
-              interest: Healthcare Service System Design, Operations Research
-              pageurl:
+              interest: Operations Research, Reinforcement Learning
+              pageurl: /people/seonghun.html
               cv:
               entered: 2026.08
               
