@@ -120,15 +120,6 @@
               pageurl: /people/yeowon
               cv:
               entered: 2026.03
-
-            - name: JeongYeon Choi
-              email: angels0501@kaist.ac.kr
-              img:
-              career:
-              interest: Optimization, Data Science
-              pageurl:
-              cv:
-              entered: 2026.07
               
             - name: Seonghun Hong
               email: hshoon@kaist.ac.kr
@@ -137,7 +128,18 @@
               interest: Healthcare Service System Design, Operations Research
               pageurl:
               cv:
-              entered: 2026.07
+              entered: 2026.08
+              
+            - name: JeongYeon Choi
+              email: angels0501@kaist.ac.kr
+              img: jeongyeon.jpg
+              career:
+              interest: Healthcare System Optimization, Data Science
+              pageurl: /people/jeongyeon
+              cv:
+              entered: 2026.08
+              
+
 
 ## --------------Undergraduate Students------------------
 
