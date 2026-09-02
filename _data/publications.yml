@@ -2806,7 +2806,7 @@ papers:
     venue: "Socio-Economic Planning Sciences"
     month: August
     year: 2026
-    yearS: 
+    yearS: 2026.0808
     location:
     topics:
     type: journal
