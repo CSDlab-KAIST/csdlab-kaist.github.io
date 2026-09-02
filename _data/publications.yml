@@ -2334,7 +2334,7 @@ papers:
     link: ""
 
   - title: "Systematic review on Healthcare Systems Engineering utilizing ChatGPT"
-    author: "Kim, J., Lee, J.-S., Kim, H., and Lee, T."
+    author: "Kim, J., Lee, J.-S., Kim, H. and Lee, T."
     venue: "arXiv"
     month: May
     year: 2024
@@ -2349,7 +2349,7 @@ papers:
     link: "https://arxiv.org/abs/2405.11817"
 
   - title: "Unveiling True Patient Demand: A Novel Approach Using Modified Kaplan-Meier Estimator"
-    author: "Yadav, A., Kim, J., and Lee, T."
+    author: "Yadav, A., Kim, J. and Lee, T."
     venue: "2024 KIIE Annual Spring Conference"
     month: May 03
     year: 2024
@@ -2364,7 +2364,7 @@ papers:
     link: ""
 
   - title: "Analysis Framework for deriving patient sharing communities in hospital networks"
-    author: "Im, J., Kim, J., and Lee, T."
+    author: "Im, J., Kim, J. and Lee, T."
     venue: "2024 KIIE Annual Spring Conference"
     month: May 03
     year: 2024
@@ -2379,7 +2379,7 @@ papers:
     link: ""
 
   - title: "개인의 사회적 거리두기 정책 순응 결정을 고려한 전염병 전파 모형"
-    author: "Shin, H., and Lee, T."
+    author: "Shin, H. and Lee, T."
     venue: "2024 KIIE Annual Spring Conference"
     month: May 03
     year: 2024
@@ -2394,7 +2394,7 @@ papers:
     link: ""
 
   - title: "의료이용 데이터를 활용한 의료기관 기능 강화 최적화 모형"
-    author: "Choi, Y., Lee, J., and Lee, T."
+    author: "Choi, Y., Lee, J. and Lee, T."
     venue: "2024 KIIE Annual Spring Conference"
     month: May 03
     year: 2024
@@ -2409,7 +2409,7 @@ papers:
     link: ""
         
   - title: "Hypernetwork-based approach for optimal composition design in partially controlled multi-agent systems"
-    author: "Park, K., Molina Concha, D., Lee, H., Lee, C., and Lee, T."
+    author: "Park, K., Molina Concha, D., Lee, H., Lee, C. and Lee, T."
     venue: "INFORMS Annual Meeting 2024"
     month: October 22
     year: 2024
@@ -2424,7 +2424,7 @@ papers:
     link: ""
     
   - title: "An Extended Latent Class Choice Model for Characterizing Context-driven hospital choice"
-    author: "Kim, J., and Lee, T."
+    author: "Kim, J. and Lee, T."
     venue: "INFORMS Annual Meeting 2024"
     month: October 23
     year: 2024
@@ -2439,7 +2439,7 @@ papers:
     link: ""
 
   - title: "A Game Theoretic Approach to Efficient and Equitable Healthcare Quality Improvement Policies for Regional Disparity"
-    author: "Lee, J., Hwang, W., and Lee, T."
+    author: "Lee, J., Hwang, W. and Lee, T."
     venue: "INFORMS Annual Meeting 2024"
     month: October 23
     year: 2024
@@ -2484,7 +2484,7 @@ papers:
     link: ""
     
   - title: "Ammunition Distribution Planning in Lanchester type Multi-unit Combat"
-    author: "Choi, Y., Kim, J., and Lee, T."
+    author: "Choi, Y., Kim, J. and Lee, T."
     venue: "2024 KIIE Annual Fall Conference"
     month: October 25
     year: 2024
@@ -2499,7 +2499,7 @@ papers:
     link: ""
         
   - title: "Catchment area, Accessibility and Outcome: Case of Acute Myocardial Infarction in Korea"
-    author: "Ahn, J., Lee, J., and Lee, T."
+    author: "Ahn, J., Lee, J. and Lee, T."
     venue: "2024 KORMS Annual Fall Conference"
     month: November 08
     year: 2024
@@ -2529,7 +2529,7 @@ papers:
     link: ""
 
   - title: "Gatekeeper’s Competition and Optimal Payment Scheme in Healthcare"
-    author: "Lee, J., Hwang W., and Lee T."
+    author: "Lee, J., Hwang W. and Lee T."
     venue: "2025 KIIE Annual Spring Conference"
     month: June 18
     year: 2025
@@ -2561,7 +2561,7 @@ papers:
 
 
   - title: "Reward design in multi-agent systems using successor features and multi-information source bayesian optimization"
-    author: "Park, K., Molina Concha, D., Lee, H-R., Lee, T., Lee, C-G."
+    author: "Park, K., Molina Concha, D., Lee, H-R., Lee, T. and Lee, C-G."
     venue: "International Journal of Machine Learning and Cybernetics"
     month: April
     year: 2025
@@ -2576,7 +2576,7 @@ papers:
     link: "https://doi.org/10.1007/s13042-025-02622-z"
 
   - title: "Effectiveness of social distancing under partial compliance of individuals"
-    author: "Shin, H. Lee, T."
+    author: "Shin, H. and Lee, T."
     venue: "European Journal of Operational Research"
     month: May
     year: 2025
@@ -2591,7 +2591,7 @@ papers:
     link: "https://doi.org/10.1016/j.ejor.2024.11.006"
 
   - title: "Agent-Based Model of Quality–Perception Dynamics in Healthcare System: Does Providing Quality Information Mitigate or Intensify Patient Concentration?"
-    author: "Kim, J., Lee, M., Lee, J., Do, Y., and Lee, T."
+    author: "Kim, J., Lee, M., Lee, J., Do, Y. and Lee, T."
     venue: "2025 Korean Society for Preventive Medicine Annual Fall Conference"
     month: October 24
     year: 2025
@@ -2606,7 +2606,7 @@ papers:
     link: ""
 
   - title: "Gatekeeper’s Competition and Optimal Payment Scheme in Healthcare"
-    author: "Lee, J., Hwang, W., and Lee, T."
+    author: "Lee, J., Hwang, W. and Lee, T."
     venue: "2025 INFORMS Annual Meeting"
     month: October 27
     year: 2025
@@ -2652,7 +2652,7 @@ papers:
 
 
   - title: "Dynamic control group and policy design in partially controllable multi-agent systems"
-    author: "Son, J., Park, K., and Lee, T."
+    author: "Son, J., Park, K. and Lee, T."
     venue: "2025 KIIE Annual Fall Conference"
     month: November 06
     year: 2025
@@ -2667,7 +2667,7 @@ papers:
     link: ""
     
   - title: "Balancing Distance and Volume for Optimizing Emergency Medical Systems"
-    author: "Ahn, J., Lee, J., and Lee, T."
+    author: "Ahn, J., Lee, J. and Lee, T."
     venue: "2025 KIIE Annual Fall Conference"
     month: November 06
     year: 2025
@@ -2682,7 +2682,7 @@ papers:
     link: ""
 
   - title: "Disentangling Experience and Attribute Effects in State Dependence Hospital Choice Model"
-    author: "Bae, J., Kim, J., and Lee, T."
+    author: "Bae, J., Kim, J. and Lee, T."
     venue: "2025 KIIE Annual Fall Conference"
     month: November 07
     year: 2025
@@ -2697,7 +2697,7 @@ papers:
     link: ""
 
   - title: "Emulating Pandemic-X Scenarios: A Semi-Mechanistic Framework with Bayesian Filtering"
-    author: "Kim, M., Kim, J., Bae, J., and Lee, T."
+    author: "Kim, M., Kim, J., Bae, J. and Lee, T."
     venue: "2025 KIIE Annual Fall Conference"
     month: November 07
     year: 2025
@@ -2801,3 +2801,19 @@ papers:
     award: ""
     link: ""
 
+  - title: "Optimal social distancing policy incorporating compliance of individuals"
+    author: "Shin, H. and Lee, T."
+    venue: "Socio-Economic Planning Sciences"
+    month: July
+    year: 2026
+    yearS: 2026.0730
+    location:
+    topics:
+    type: journal
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://doi.org/10.1016/j.seps.2026.102577"
+
+    
